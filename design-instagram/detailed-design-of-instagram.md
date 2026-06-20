@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of Instagram](design-of-instagram.md) | [Course Index](../README.md) | [Next: Quiz on Instagram’s Design](quiz-on-instagrams-design.md)
+<!-- COURSE_NAV_END -->
+
 # Detailed Design of Instagram
 
 ### Add more components <a href="#add-more-components-0" id="add-more-components-0"></a>
@@ -112,3 +116,7 @@ We evaluate the Instagram design with respect to its non-functional requirements
 ### Conclusion <a href="#conclusion-1" id="conclusion-1"></a>
 
 This design problem highlights that we can provide major services by connecting our building blocks appropriately. The scalable and fault-tolerant building blocks enable us to concentrate on use-case-specific issues (such as the efficient formation of timelines).
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of Instagram](design-of-instagram.md) | [Course Index](../README.md) | [Next: Quiz on Instagram’s Design](quiz-on-instagrams-design.md)
+<!-- COURSE_NAV_END -->

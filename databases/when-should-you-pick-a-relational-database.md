@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Relational Databases](relational-databases.md) | [Course Index](../README.md) | [Next: NoSQL Databases - Introduction](nosql-databases-introduction.md)
+<!-- COURSE_NAV_END -->
+
 # When should you pick a relational database?
 
 You should pick a relational database if you need _strong consistency, transactions,_ or _relationships_. Typical examples of apps needing _strong consistency_ are _stock trading, personal banking,_ etc., and relational data is common in apps like _Facebook, LinkedIn,_ etc.
@@ -28,3 +32,7 @@ Some of the popular relational databases used in the industry are:
 * MariaDB, Amazon Aurora, Google Cloud SQL, etc.
 
 Folks!, that’s all on the relational databases. Let’s understand non-relational databases in the lesson up next.
+
+<!-- COURSE_NAV_START -->
+[Previous: Relational Databases](relational-databases.md) | [Course Index](../README.md) | [Next: NoSQL Databases - Introduction](nosql-databases-introduction.md)
+<!-- COURSE_NAV_END -->

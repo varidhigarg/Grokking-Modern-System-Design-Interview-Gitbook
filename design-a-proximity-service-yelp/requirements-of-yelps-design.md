@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Yelp](system-design-yelp.md) | [Course Index](../README.md) | [Next: Design of Yelp](design-of-yelp.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of Yelp’s Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -124,3 +128,7 @@ Considering that there are 60 million active daily users, we come to the followi
 * [**Database**](../databases/introduction-to-databases.md): We’ll store information about places and users in the database.
 
 We’ll also rely on [**Google Maps**](../design-google-maps/system-design-google-maps.md) to understand the feature of searching for places within a particular radius.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Yelp](system-design-yelp.md) | [Course Index](../README.md) | [Next: Design of Yelp](design-of-yelp.md)
+<!-- COURSE_NAV_END -->

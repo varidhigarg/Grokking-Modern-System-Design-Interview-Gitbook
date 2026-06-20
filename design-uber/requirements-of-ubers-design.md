@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Uber](system-design-uber.md) | [Course Index](../README.md) | [Next: High-level Design of Uber](high-level-design-of-uber.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of Uber’s Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -140,3 +144,7 @@ The design of Uber utilizes the following building blocks:
 Riders’ and drivers’ devices should have sufficient bandwidth and GPS equipment for smooth navigation with maps.
 
 > **Note:** The information provided in this chapter is inspired by the engineering blog of Uber.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Uber](system-design-uber.md) | [Course Index](../README.md) | [Next: High-level Design of Uber](high-level-design-of-uber.md)
+<!-- COURSE_NAV_END -->

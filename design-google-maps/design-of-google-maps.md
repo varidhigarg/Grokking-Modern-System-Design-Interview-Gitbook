@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Google Maps' Design](requirements-of-google-maps-design.md) | [Course Index](../README.md) | [Next: Challenges of Google Maps' Design](challenges-of-google-maps-design.md)
+<!-- COURSE_NAV_END -->
+
 # Design of Google Maps
 
 ### High-level design <a href="#high-level-design-0" id="high-level-design-0"></a>
@@ -98,3 +102,7 @@ directions(curr_location, steps)
 | `steps`            | These are the steps the user should follow in order to reach their destination. |
 
 We described the high-level design by explaining the services we will need. We also discussed API design. Next, we’ll discuss how we met the scalability challenge through segments.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Google Maps' Design](requirements-of-google-maps-design.md) | [Course Index](../README.md) | [Next: Challenges of Google Maps' Design](challenges-of-google-maps-design.md)
+<!-- COURSE_NAV_END -->

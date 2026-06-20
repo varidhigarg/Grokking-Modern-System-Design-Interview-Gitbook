@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design Quora](../design-quora.md) | [Course Index](../README.md) | [Next: Requirements of Quora's Design](requirements-of-quoras-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: Quora
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -30,3 +34,7 @@ We'll design Quora by dividing the design problem into the following four lesson
 4. [**Evaluation:**](evaluation-of-quoras-design.md) We’ll assess our design specifically for non-functional requirements and discuss some of its trade-offs. We’ll also discuss some ideas on how we can improve the availability of our design in this lesson.
 
 > **Note:** The information provided in this chapter is inspired by the engineering blog of Quora.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design Quora](../design-quora.md) | [Course Index](../README.md) | [Next: Requirements of Quora's Design](requirements-of-quoras-design.md)
+<!-- COURSE_NAV_END -->

@@ -4,6 +4,10 @@ description: >-
   versa.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Data Partitioning](data-partitioning.md) | [Course Index](../README.md) | [Next: Relational Databases](relational-databases.md)
+<!-- COURSE_NAV_END -->
+
 # Trade-offs in Databases
 
 ### Which is the best database sharding approach? <a href="#which-is-the-best-database-sharding-approach" id="which-is-the-best-database-sharding-approach"></a>
@@ -119,3 +123,7 @@ Data distribution (vertical and horizontal sharding) across multiple nodes aims 
 * Balanced storage capacity and dollar costs
 
 Both centralized and distributed databases have their pros and cons. We should choose them according to the needs of our application.
+
+<!-- COURSE_NAV_START -->
+[Previous: Data Partitioning](data-partitioning.md) | [Course Index](../README.md) | [Next: Relational Databases](relational-databases.md)
+<!-- COURSE_NAV_END -->

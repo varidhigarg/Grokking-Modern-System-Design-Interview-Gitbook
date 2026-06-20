@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Distributed Task Scheduler](system-design-the-distributed-task-scheduler.md) | [Course Index](../README.md) | [Next: Design of a Distributed Task Scheduler](design-of-a-distributed-task-scheduler.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of a Distributed Task Scheduler's Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -44,3 +48,7 @@ We’ll utilize the following building blocks in the design of our task scheduli
 * [**Monitoring**](https://www.educative.io/collection/page/10370001/4941429335392256/6310983387840512) is essential to check the health of the resources and to detect failed tasks to provide reliable service to the users.
 
 We’ve identified the requirements of the task scheduler. In the next lesson, we’ll design our task scheduling system according to these requirements.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Distributed Task Scheduler](system-design-the-distributed-task-scheduler.md) | [Course Index](../README.md) | [Next: Design of a Distributed Task Scheduler](design-of-a-distributed-task-scheduler.md)
+<!-- COURSE_NAV_END -->

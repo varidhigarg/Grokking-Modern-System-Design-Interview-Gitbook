@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: WhatsApp](system-design-whatsapp.md) | [Course Index](../README.md) | [Next: High-level Design of WhatsApp](high-level-design-of-whatsapp.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of WhatsApp’s Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -85,3 +89,7 @@ The design of WhatsApp utilizes the following building blocks that have also bee
 * A [**messaging queue**](../distributed-messaging-queue/system-design-the-distributed-messaging-queue.md) is used to temporarily keep messages in a queue on a database when a user is offline.
 
 In the next lesson, we’ll focus on the high-level design of the WhatsApp messenger.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: WhatsApp](system-design-whatsapp.md) | [Course Index](../README.md) | [Next: High-level Design of WhatsApp](high-level-design-of-whatsapp.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Distributed Cache](system-design-the-distributed-cache.md) | [Course Index](../README.md) | [Next: High-level Design of a Distributed Cache](high-level-design-of-a-distributed-cache.md)
+<!-- COURSE_NAV_END -->
+
 # Background of Distributed Cache
 
 The main goal of this chapter is to design a distributed cache. To achieve this goal, we should have substantial background knowledge, mainly on different reading and writing techniques. This lesson will help us build that background knowledge. Let’s look at the structure of this lesson in the table below
@@ -114,3 +118,7 @@ A cache client is a piece of code residing in hosting servers that do (hash) com
 
 * Each cache client will know about all the cache servers.
 * All clients can use well-known transport protocols like TCP or UDP to talk to the cache servers.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Distributed Cache](system-design-the-distributed-cache.md) | [Course Index](../README.md) | [Next: High-level Design of a Distributed Cache](high-level-design-of-a-distributed-cache.md)
+<!-- COURSE_NAV_END -->

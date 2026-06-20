@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Initial Design of Quora](initial-design-of-quora.md) | [Course Index](../README.md) | [Next: Evaluation of Quora’s Design](evaluation-of-quoras-design.md)
+<!-- COURSE_NAV_END -->
+
 # Final Design of Quora
 
 ### Limitations of the proposed design <a href="#limitations-of-the-proposed-design-0" id="limitations-of-the-proposed-design-0"></a>
@@ -109,3 +113,6 @@ WebSockets are another low-latency solution with low overhead. However, WebSocke
 
 \------------------
 
+<!-- COURSE_NAV_START -->
+[Previous: Initial Design of Quora](initial-design-of-quora.md) | [Course Index](../README.md) | [Next: Evaluation of Quora’s Design](evaluation-of-quoras-design.md)
+<!-- COURSE_NAV_END -->

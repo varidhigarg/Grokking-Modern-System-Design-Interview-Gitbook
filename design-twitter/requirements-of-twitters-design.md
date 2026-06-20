@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Twitter](system-design-twitter.md) | [Course Index](../README.md) | [Next: High-level Design of Twitter](high-level-design-of-twitter.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of Twitter’s Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -48,3 +52,7 @@ Twitter’s design utilizes the following building blocks that we discussed in t
 * [**Monitoring**](../distributed-monitoring/system-design-distributed-monitoring.md) analyses all outgoing and incoming traffic, identifies the redundancy in the storage system, figures out the failed node, and so on.
 
 In the next lesson, we’ll discuss the design of the Twitter system.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Twitter](system-design-twitter.md) | [Course Index](../README.md) | [Next: High-level Design of Twitter](high-level-design-of-twitter.md)
+<!-- COURSE_NAV_END -->

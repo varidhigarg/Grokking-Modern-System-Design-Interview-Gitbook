@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Web Crawler's Design](requirements-of-a-web-crawlers-design.md) | [Course Index](../README.md) | [Next: Design Improvements of a Web Crawler](design-improvements-of-a-web-crawler.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Web Crawler
 
 ### Design <a href="#design-0" id="design-0"></a>
@@ -143,3 +147,7 @@ The default revisit-time is application-dependent rather than system-dependent, 
 \----------------
 
 In the next lesson, we’ll explore some shortcomings in our design and their potential workarounds.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Web Crawler's Design](requirements-of-a-web-crawlers-design.md) | [Course Index](../README.md) | [Next: Design Improvements of a Web Crawler](design-improvements-of-a-web-crawler.md)
+<!-- COURSE_NAV_END -->

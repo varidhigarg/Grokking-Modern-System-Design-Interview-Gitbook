@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Strong Consistency](strong-consistency.md) | [Course Index](../README.md) | [Next: Key-value Store](../key-value-store/README.md)
+<!-- COURSE_NAV_END -->
+
 # CAP Theorem
 
 ### What is the CAP theorem? <a href="#what-is-the-cap-theorem" id="what-is-the-cap-theorem"></a>
@@ -15,3 +19,7 @@ If we pick consistency, in this scenario, we have to lock down all the nodes for
 Picking between availability and consistency largely depends on our use case and the business requirements. We have been through this in great detail. Also, the design of the distributed systems (CAP theorem) forces us to choose one. We can’t have both availability and consistency at the same time.
 
 Nodes spread around the globe will take some time to reach a consensus. It’s impossible to have zero latency.
+
+<!-- COURSE_NAV_START -->
+[Previous: Strong Consistency](strong-consistency.md) | [Course Index](../README.md) | [Next: Key-value Store](../key-value-store/README.md)
+<!-- COURSE_NAV_END -->

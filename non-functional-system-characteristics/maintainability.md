@@ -4,6 +4,10 @@ description: >-
   reliability.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Scalability](scalability.md) | [Course Index](../README.md) | [Next: Fault Tolerance](fault-tolerance.md)
+<!-- COURSE_NAV_END -->
+
 # Maintainability
 
 ### What is maintainability? <a href="#what-is-maintainability" id="what-is-maintainability"></a>
@@ -33,3 +37,7 @@ In other words, MTTR is the average amount of time required to repair and restor
 #### Maintainability and reliability <a href="#maintainability-and-reliability" id="maintainability-and-reliability"></a>
 
 Maintainability can be defined more clearly in close relation to reliability. The only difference between them is the variable of interest. Maintainability refers to `time-to-repair`, whereas reliability refers to both `time-to-repair` and the `time-to-failure`. Combining maintainability and reliability analysis can help us achieve availability, downtime, and uptime insights.
+
+<!-- COURSE_NAV_START -->
+[Previous: Scalability](scalability.md) | [Course Index](../README.md) | [Next: Fault Tolerance](fault-tolerance.md)
+<!-- COURSE_NAV_END -->

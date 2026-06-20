@@ -4,6 +4,10 @@ description: >-
   our application.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Network Abstractions: Remote Procedure Calls](network-abstractions-remote-procedure-calls.md) | [Course Index](../README.md) | [Next: The Spectrum of Failure Models](the-spectrum-of-failure-models.md)
+<!-- COURSE_NAV_END -->
+
 # Spectrum of Consistency Models
 
 ### What is consistency? <a href="#what-is-consistency" id="what-is-consistency"></a>
@@ -118,3 +122,7 @@ Linearizable services appear to carry out transactions/operations in sequential,
 Linearizable services have worse performance rates than services with weaker consistency in exchange for their strong assurances. Think about a read in a key-value store that returns the value written by a concurrent write. The read imposes no limits on future reads if the key-value store is weakly consistent.
 
 Application programmers have to compromise performance and availability if they use services with strong consistency models. The models may break the invariants of applications built on top of them in exchange for increased performance.
+
+<!-- COURSE_NAV_START -->
+[Previous: Network Abstractions: Remote Procedure Calls](network-abstractions-remote-procedure-calls.md) | [Course Index](../README.md) | [Next: The Spectrum of Failure Models](the-spectrum-of-failure-models.md)
+<!-- COURSE_NAV_END -->

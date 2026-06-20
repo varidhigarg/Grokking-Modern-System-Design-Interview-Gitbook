@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Newsfeed System](system-design-newsfeed-system.md) | [Course Index](../README.md) | [Next: Design of a Newsfeed System](design-of-a-newsfeed-system.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of a Newsfeed System’s Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -83,3 +87,7 @@ The design of newsfeed system utilizes the following building blocks:
 * [**Load balancers**](../load-balancers/introduction-to-load-balancers.md) are necessary to distribute millions of incoming clients’ requests for newsfeed among the pool of available servers.
 
 In the next lesson, we’ll focus on the high-level and detailed design of the newsfeed system.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Newsfeed System](system-design-newsfeed-system.md) | [Course Index](../README.md) | [Next: Design of a Newsfeed System](design-of-a-newsfeed-system.md)
+<!-- COURSE_NAV_END -->

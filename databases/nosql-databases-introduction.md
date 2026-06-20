@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: When should you pick a relational database?](when-should-you-pick-a-relational-database.md) | [Course Index](../README.md) | [Next: Features of NoSQL Databases](features-of-nosql-databases.md)
+<!-- COURSE_NAV_END -->
+
 # NoSQL Databases - Introduction
 
 ### What is a NoSQL database? <a href="#what-is-a-nosql-database" id="what-is-a-nosql-database"></a>
@@ -41,3 +45,7 @@ So, this naturally means NoSQL databases aren’t a silver bullet. They, too, ha
 I’ll talk about the underlying design of NoSQL databases in much more detail and why they have to sacrifice strong consistency and transactions in the upcoming lessons.
 
 For now, let’s focus on some of the features of NoSQL databases in the lesson up next.
+
+<!-- COURSE_NAV_START -->
+[Previous: When should you pick a relational database?](when-should-you-pick-a-relational-database.md) | [Course Index](../README.md) | [Next: Features of NoSQL Databases](features-of-nosql-databases.md)
+<!-- COURSE_NAV_END -->

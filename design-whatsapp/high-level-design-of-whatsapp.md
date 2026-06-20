@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of WhatsApp’s Design](requirements-of-whatsapps-design.md) | [Course Index](../README.md) | [Next: Detailed Design of WhatsApp](detailed-design-of-whatsapp.md)
+<!-- COURSE_NAV_END -->
+
 # High-level Design of WhatsApp
 
 ### High-level design <a href="#high-level-design-0" id="high-level-design-0"></a>
@@ -107,3 +111,7 @@ The parameters of this API call are explained in the following table:
 | `file_id`     | This is a unique identifier of a file. It’s generated while uploading a file via `uploadFile()` API call. The `downloadFile()` API call downloads the media file through this identifier. The client can find the `file_id` by providing the file name to the server. That API call is not shown here. |
 
 In the next lesson, we’ll focus on the detailed design of the WhatsApp system.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of WhatsApp’s Design](requirements-of-whatsapps-design.md) | [Course Index](../README.md) | [Next: Detailed Design of WhatsApp](detailed-design-of-whatsapp.md)
+<!-- COURSE_NAV_END -->

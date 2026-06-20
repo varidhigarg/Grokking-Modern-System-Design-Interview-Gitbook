@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Evaluation of a Blob Store's Design](evaluation-of-a-blob-stores-design.md) | [Course Index](../README.md) | [Next: Distributed Search](../distributed-search.md)
+<!-- COURSE_NAV_END -->
+
 # Quiz on the Blob Store's Design
 
 ![](<../.gitbook/assets/Screenshot 2023-09-02 at 4.14.14 PM.png>)
@@ -17,3 +21,7 @@
 ![](<../.gitbook/assets/Screenshot 2023-09-02 at 4.31.06 PM.png>)
 
 ![](<../.gitbook/assets/Screenshot 2023-09-02 at 4.31.58 PM.png>)
+
+<!-- COURSE_NAV_START -->
+[Previous: Evaluation of a Blob Store's Design](evaluation-of-a-blob-stores-design.md) | [Course Index](../README.md) | [Next: Distributed Search](../distributed-search.md)
+<!-- COURSE_NAV_END -->

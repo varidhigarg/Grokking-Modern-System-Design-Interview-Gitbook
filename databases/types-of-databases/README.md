@@ -2,6 +2,10 @@
 description: Understand various types of databases and their use cases in system design.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Databases](../introduction-to-databases.md) | [Course Index](../../README.md) | [Next: Relational Database](relational-database.md)
+<!-- COURSE_NAV_END -->
+
 # Types of Databases
 
 As we discussed earlier, databases are divided into two types: relational and non-relational. Let’s discuss these types in detail.
@@ -147,3 +151,7 @@ Various factors affect the choice of database to be used in an application. A co
 | If the size of the data is relatively small and can fit on a node) | If the size of the data to be stored is large       |
 
 > **Note**: When NoSQL databases first came into being, they were drastically different to program and use as compared to traditional databases. Though, due to extensive research in academia and industry over the last many years, the programmer-facing differences between NoSQL and traditional stores are blurring. We might be using the same SQL constructs to talk to a NoSQL store and get a similar level of performance and consistency as a traditional store. Google’s Cloud Spanner is one such database that’s geo-replicated with automatic horizontal sharding ability and high-speed global snapshots of data.
+
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Databases](../introduction-to-databases.md) | [Course Index](../../README.md) | [Next: Relational Database](relational-database.md)
+<!-- COURSE_NAV_END -->

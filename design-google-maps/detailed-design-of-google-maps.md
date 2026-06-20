@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Challenges of Google Maps' Design](challenges-of-google-maps-design.md) | [Course Index](../README.md) | [Next: Evaluation of Google Maps' Design](evaluation-of-google-maps-design.md)
+<!-- COURSE_NAV_END -->
+
 # Detailed Design of Google Maps
 
 In this lesson, we’ll discuss our detailed design by answering the following questions:
@@ -86,3 +90,7 @@ To detect transitory and normal conditions, we keep two copies of all relevant d
 * The **graph preprocessing service** recalculates the new paths on the updated segment graph. We’ve seen how the paths are updated continuously in the background based on the live data.
 
 We’ve learned how the segments work, how a user finds the location between two points, and how the ETA's accuracy is improved by utilizing the live location data.
+
+<!-- COURSE_NAV_START -->
+[Previous: Challenges of Google Maps' Design](challenges-of-google-maps-design.md) | [Course Index](../README.md) | [Next: Evaluation of Google Maps' Design](evaluation-of-google-maps-design.md)
+<!-- COURSE_NAV_END -->

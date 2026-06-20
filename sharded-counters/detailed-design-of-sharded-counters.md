@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: High-level Design of Sharded Counters](high-level-design-of-sharded-counters.md) | [Course Index](../README.md) | [Next: Quiz on the Sharded Counters' Design](quiz-on-the-sharded-counters-design.md)
+<!-- COURSE_NAV_END -->
+
 # Detailed Design of Sharded Counters
 
 ### Detailed design <a href="#detailed-design-0" id="detailed-design-0"></a>
@@ -146,3 +150,7 @@ Another primary purpose of the sharded counters is to reduce the massive write r
 ### Conclusion[#](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/detailed-design-of-sharded-counters#Conclusion-4) <a href="#conclusion-4" id="conclusion-4"></a>
 
 Nowadays, sharded counters are a key player in improving the overall performance of giant services. They provide high scalability, availability, and reliability. Sharded counters solved significant issues, including the heavy hitters and Top K problems, that are very common in large-scale applications.
+
+<!-- COURSE_NAV_START -->
+[Previous: High-level Design of Sharded Counters](high-level-design-of-sharded-counters.md) | [Course Index](../README.md) | [Next: Quiz on the Sharded Counters' Design](quiz-on-the-sharded-counters-design.md)
+<!-- COURSE_NAV_END -->

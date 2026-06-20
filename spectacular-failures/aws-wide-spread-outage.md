@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: AWS Kinesis Outage Affecting Many Organizations](aws-kinesis-outage-affecting-many-organizations.md) | [Course Index](../README.md) | [Next: Conclusions](../conclusions.md)
+<!-- COURSE_NAV_END -->
+
 # AWS Wide Spread Outage
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -59,3 +63,7 @@ We suggest the following solutions:
 * End-to-end transparency at each layer gives the information required to run the sites and services properly.
 * Building an application across multiple clouds or AWS regions would have made it easier for the affected customers to recover quickly.
 * There’s a need to uncouple services to an extreme extent to eliminate cross-dependency issues.
+
+<!-- COURSE_NAV_START -->
+[Previous: AWS Kinesis Outage Affecting Many Organizations](aws-kinesis-outage-affecting-many-organizations.md) | [Course Index](../README.md) | [Next: Conclusions](../conclusions.md)
+<!-- COURSE_NAV_END -->

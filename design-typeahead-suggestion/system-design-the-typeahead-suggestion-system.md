@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design Typeahead Suggestion](../design-typeahead-suggestion.md) | [Course Index](../README.md) | [Next: Requirements of the Typeahead Suggestion System’s Design](requirements-of-the-typeahead-suggestion-systems-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: The Typeahead Suggestion System
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -18,3 +22,7 @@ We’ve divided the chapter on the design of the typeahead suggestion system int
 6. [**Quiz**](quiz-on-the-typeahead-suggestion-systems-design.md)**:** In this lesson, we assess our understanding of the design via a quiz.
 
 Let’s start by identifying the requirements for designing a typeahead suggestion system.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design Typeahead Suggestion](../design-typeahead-suggestion.md) | [Course Index](../README.md) | [Next: Requirements of the Typeahead Suggestion System’s Design](requirements-of-the-typeahead-suggestion-systems-design.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Wrapping Up the Building Blocks Discussion](wrapping-up-the-building-blocks-discussion.md) | [Course Index](../README.md) | [Next: Design YouTube](../design-youtube.md)
+<!-- COURSE_NAV_END -->
+
 # The RESHADED Approach for System Design
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -45,3 +49,7 @@ We discuss different trade-offs we made in our solution and also identify room f
 **Distinctive component/feature**: At the start of this lesson, we discussed how no one-size-fits-all solution exists. This step is to identify a unique aspect for each design problem and discuss it. For example, the Uber design problem has payment service and fraud detection as its unique feature. In contrast, Google Docs has concurrency control, which is required when different users want to edit the same section of a document simultaneously.
 
 Next, we’ll apply our guideline (RESHADED) to many design problems.
+
+<!-- COURSE_NAV_START -->
+[Previous: Wrapping Up the Building Blocks Discussion](wrapping-up-the-building-blocks-discussion.md) | [Course Index](../README.md) | [Next: Design YouTube](../design-youtube.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design Instagram](../design-instagram.md) | [Course Index](../README.md) | [Next: Requirements of Instagram’s Design](requirements-of-instagrams-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: Instagram
 
 ### What is Instagram? <a href="#what-is-instagram-0" id="what-is-instagram-0"></a>
@@ -18,3 +22,7 @@ We have divided the design of Instagram into four lessons:
 4. [**Quiz**](quiz-on-instagrams-design.md): This lesson will test our understanding of the Instagram design.
 
 Let’s start by understanding the requirements for designing our Instagram system and provide resource estimations in the next lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design Instagram](../design-instagram.md) | [Course Index](../README.md) | [Next: Requirements of Instagram’s Design](requirements-of-instagrams-design.md)
+<!-- COURSE_NAV_END -->

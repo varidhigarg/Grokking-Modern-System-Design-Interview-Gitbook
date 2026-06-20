@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Rate Limiter](system-design-the-rate-limiter.md) | [Course Index](../README.md) | [Next: Design of a Rate Limiter](design-of-a-rate-limiter.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of a Rate Limiter’s Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -95,3 +99,7 @@ The design of the rate limiter utilizes the following building blocks that we di
 * [**Queues**](https://www.educative.io/collection/page/10370001/4941429335392256/5806944861814784) are essential for holding the incoming requests that are allowed by the rate limiter.
 
 In the next lesson, we’ll focus on a high-level and detailed design of a rate limiter based on the requirements discussed in this lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Rate Limiter](system-design-the-rate-limiter.md) | [Course Index](../README.md) | [Next: Design of a Rate Limiter](design-of-a-rate-limiter.md)
+<!-- COURSE_NAV_END -->

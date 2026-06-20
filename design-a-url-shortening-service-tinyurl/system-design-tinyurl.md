@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design a URL Shortening Service / TinyURL](../design-a-url-shortening-service-tinyurl.md) | [Course Index](../README.md) | [Next: Requirements of TinyURL's Design](requirements-of-tinyurls-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: TinyURL
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -34,3 +38,7 @@ We’ve divided the URL shortening service design into the following five lesson
 5. [**Quiz**](quiz-on-tinyurls-design.md): This lesson will test our understanding of the TinyURL design.
 
 Let’s start by defining the requirements for a TinyURL-like URL shortening service.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design a URL Shortening Service / TinyURL](../design-a-url-shortening-service-tinyurl.md) | [Course Index](../README.md) | [Next: Requirements of TinyURL's Design](requirements-of-tinyurls-design.md)
+<!-- COURSE_NAV_END -->

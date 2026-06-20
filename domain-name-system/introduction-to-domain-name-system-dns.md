@@ -2,6 +2,10 @@
 description: Learn how domain names get translated to IP addresses through DNS.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Domain Name System](../domain-name-system.md) | [Course Index](../README.md) | [Next: How the Domain Name System Works](how-the-domain-name-system-works.md)
+<!-- COURSE_NAV_END -->
+
 # Introduction to Domain Name System (DNS)
 
 #### The origins of DNS <a href="#the-origins-of-dns" id="the-origins-of-dns"></a>
@@ -56,3 +60,7 @@ Let’s highlight some of the important details about DNS, some of which we’ll
 * **Hierarchy:** DNS name servers are in a hierarchical form. The hierarchical structure allows DNS to be highly scalable because of its increasing size and query load. In the next lesson, we’ll look at how a tree-like structure is used to manage the entire DNS database.
 
 Let's explore more details of the above points in the next lesson to get more clarity.
+
+<!-- COURSE_NAV_START -->
+[Previous: Domain Name System](../domain-name-system.md) | [Course Index](../README.md) | [Next: How the Domain Name System Works](how-the-domain-name-system-works.md)
+<!-- COURSE_NAV_END -->

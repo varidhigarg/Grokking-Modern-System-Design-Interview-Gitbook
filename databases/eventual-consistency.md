@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Multi-Model Databases](multi-model-databases.md) | [Course Index](../README.md) | [Next: Strong Consistency](strong-consistency.md)
+<!-- COURSE_NAV_END -->
+
 # Eventual Consistency
 
 ### What is eventual consistency? <a href="#what-is-eventual-consistency" id="what-is-eventual-consistency"></a>
@@ -47,3 +51,7 @@ Other eventual consistency use cases are: the system keeping the count of concur
 On the contrary, there are use cases where the data has to be laser accurate, like in banking and stock markets. We just cannot have our systems eventually consistent. In these use cases, we need strong consistency.
 
 Let’s discuss it in the next lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: Multi-Model Databases](multi-model-databases.md) | [Course Index](../README.md) | [Next: Strong Consistency](strong-consistency.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Distributed Task Scheduler](design-of-a-distributed-task-scheduler.md) | [Course Index](../README.md) | [Next: Evaluation of a Distributed Task Scheduler's Design](evaluation-of-a-distributed-task-schedulers-design.md)
+<!-- COURSE_NAV_END -->
+
 # Design Considerations of a Distributed Task Scheduler
 
 ### Queueing <a href="#queueing-0" id="queueing-0"></a>
@@ -107,3 +111,7 @@ We can use a dead-letter queue facility to isolate repeatedly failing tasks.
 \--------------
 
 Now, let’s evaluate the design of our distributed task scheduler in the next lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Distributed Task Scheduler](design-of-a-distributed-task-scheduler.md) | [Course Index](../README.md) | [Next: Evaluation of a Distributed Task Scheduler's Design](evaluation-of-a-distributed-task-schedulers-design.md)
+<!-- COURSE_NAV_END -->

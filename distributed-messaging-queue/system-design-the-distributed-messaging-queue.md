@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Distributed Messaging Queue](../distributed-messaging-queue.md) | [Course Index](../README.md) | [Next: Requirements of a Distributed Messaging Queue’s Design](requirements-of-a-distributed-messaging-queues-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: The Distributed Messaging Queue
 
 ### What is a messaging queue? <a href="#what-is-a-messaging-queue-0" id="what-is-a-messaging-queue-0"></a>
@@ -38,3 +42,7 @@ We divide the design of a distributed messaging queue into the following five le
 5. [**Quiz:**](quiz-on-the-distributed-messaging-queues-design.md) At the end of the chapter, we evaluate understanding of the design of a distributed messages queue via a quiz.
 
 Let’s start by understanding the requirements of designing a distributed messaging queue.
+
+<!-- COURSE_NAV_START -->
+[Previous: Distributed Messaging Queue](../distributed-messaging-queue.md) | [Course Index](../README.md) | [Next: Requirements of a Distributed Messaging Queue’s Design](requirements-of-a-distributed-messaging-queues-design.md)
+<!-- COURSE_NAV_END -->

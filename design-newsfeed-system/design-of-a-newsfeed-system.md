@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Newsfeed System’s Design](requirements-of-a-newsfeed-systems-design.md) | [Course Index](../README.md) | [Next: Evaluation of a Newsfeed System’s Design](evaluation-of-a-newsfeed-systems-design.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Newsfeed System
 
 Let’s discuss the high-level and detailed design of a newsfeed system based on the requirements discussed in the previous lesson.
@@ -198,3 +202,7 @@ The following figure combines all the services related to the detailed design of
 <figure><img src="../.gitbook/assets/Screenshot 2023-09-06 at 12.25.30 AM.png" alt=""><figcaption></figcaption></figure>
 
 In this lesson, we discussed the design of the newsfeed system, its database schema, and the newsfeed ranking system. In the next lesson, we’ll evaluate our system’s requirements.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Newsfeed System’s Design](requirements-of-a-newsfeed-systems-design.md) | [Course Index](../README.md) | [Next: Evaluation of a Newsfeed System’s Design](evaluation-of-a-newsfeed-systems-design.md)
+<!-- COURSE_NAV_END -->

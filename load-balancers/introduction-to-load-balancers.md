@@ -2,6 +2,10 @@
 description: Learn about the basics of load balancers and the services offered by them.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Load Balancers](../load-balancers.md) | [Course Index](../README.md) | [Next: Global and Local Load Balancing](global-and-local-load-balancing.md)
+<!-- COURSE_NAV_END -->
+
 # Introduction to Load Balancers
 
 ### What is load balancing? <a href="#what-is-load-balancing" id="what-is-load-balancing"></a>
@@ -58,3 +62,7 @@ What if load balancers fail? Are they not a single point of failure (SPOF)?
 Load balancers are usually deployed in pairs as a means of disaster recovery. If one load balancer fails, and there’s nothing to failover to, the overall service will go down. Generally, to maintain high availability, enterprises use clusters of load balancers that use heartbeat communication to check the health of load balancers at all times. On failure of primary LB, the backup can take over. But, if the entire cluster fails, manual rerouting can also be performed in case of emergencies.
 
 In the coming lessons, we’ll see how load balancers can be used in complex applications and which type of load balancer is appropriate for which use case.
+
+<!-- COURSE_NAV_START -->
+[Previous: Load Balancers](../load-balancers.md) | [Course Index](../README.md) | [Next: Global and Local Load Balancing](global-and-local-load-balancing.md)
+<!-- COURSE_NAV_END -->

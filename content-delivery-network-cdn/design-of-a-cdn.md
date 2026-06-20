@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to a CDN](introduction-to-a-cdn.md) | [Course Index](../README.md) | [Next: In-depth Investigation of CDN: Part 1](in-depth-investigation-of-cdn-part-1.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a CDN
 
 ### CDN design <a href="#cdn-design" id="cdn-design"></a>
@@ -134,3 +138,7 @@ The rest of the parameters have been explained above already.
 > **Note**: The Delete API isn’t discussed here. In our caching chapter, we discussed different eviction mechanisms in detail. Those mechanisms are also applicable for a CDN content eviction. Nevertheless, situations can arise where the Delete APIs may be required. We’ll discuss a few content consistency mechanisms, like how much time content stays in the cache, in the next lesson.
 
 In the upcoming lessons, we’ll dive deep into the characteristics of CDNs.
+
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to a CDN](introduction-to-a-cdn.md) | [Course Index](../README.md) | [Next: In-depth Investigation of CDN: Part 1](in-depth-investigation-of-cdn-part-1.md)
+<!-- COURSE_NAV_END -->

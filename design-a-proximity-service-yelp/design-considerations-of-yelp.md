@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of Yelp](design-of-yelp.md) | [Course Index](../README.md) | [Next: Quiz on Yelp's Design](quiz-on-yelps-design.md)
+<!-- COURSE_NAV_END -->
+
 # Design Considerations of Yelp
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -192,3 +196,7 @@ Let’s see how our system design fulfills our requirements.
 ### Summary <a href="#summary-1" id="summary-1"></a>
 
 The proximity-based servers allow the user to search for a specific place or places nearby. The map data of the world is huge and dividing it into segments and finding the specific segment was a challenge in itself. So, we used QuadTrees to optimize our search and provided the user with a list of places with minimum latency.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of Yelp](design-of-yelp.md) | [Course Index](../README.md) | [Next: Quiz on Yelp's Design](quiz-on-yelps-design.md)
+<!-- COURSE_NAV_END -->

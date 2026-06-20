@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Blob Store](design-of-a-blob-store.md) | [Course Index](../README.md) | [Next: Evaluation of a Blob Store's Design](evaluation-of-a-blob-stores-design.md)
+<!-- COURSE_NAV_END -->
+
 # Design Considerations of a Blob Store
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -210,3 +214,7 @@ Caching can take place at multiple levels. Below are some examples:
 > **Note:** The caching of the blob store is usually done using **CDN**. The Azure blob store service cache the publicly accessible blob in Azure Content Delivery Network until that blob’s TTL (time-to-live) elapses. The origin server defines the TTL, and CDN determines it from the `Cache-Control` header in the HTTP response from the origin server.
 
 We covered the design factors that should be taken into account while designing a blob store. Now, we’ll evaluate what we designed.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Blob Store](design-of-a-blob-store.md) | [Course Index](../README.md) | [Next: Evaluation of a Blob Store's Design](evaluation-of-a-blob-stores-design.md)
+<!-- COURSE_NAV_END -->

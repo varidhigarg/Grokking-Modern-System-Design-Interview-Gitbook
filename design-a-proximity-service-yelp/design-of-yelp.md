@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Yelp’s Design](requirements-of-yelps-design.md) | [Course Index](../README.md) | [Next: Design Considerations of Yelp](design-considerations-of-yelp.md)
+<!-- COURSE_NAV_END -->
+
 # Design of Yelp
 
 We identified the requirements and calculated the estimations for our Yelp system in the previous lesson. In this lesson, we discuss the API design, go through the storage schema, and then dive into the details of the system’s building blocks and additional components.
@@ -161,3 +165,7 @@ We explain the detailed workflow of our system in terms of the required function
 **Making segments**: The segment’s producer splits the world map taken from the third-party map service into smaller segments. The places inside each segment are stored in a key-value store. Even though this is a one-time job, this process is repeated periodically for newer segments and places. Since the probability of new places being added is low, we update our segments every month.
 
 We’ve discussed the design of Yelp, its API design, and the relevant storage schema. In the next lesson, we’ll talk about the design considerations.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Yelp’s Design](requirements-of-yelps-design.md) | [Course Index](../README.md) | [Next: Design Considerations of Yelp](design-considerations-of-yelp.md)
+<!-- COURSE_NAV_END -->

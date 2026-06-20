@@ -2,6 +2,10 @@
 description: Learn about availability, how to measure it, and its importance.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Non-functional System Characteristics](README.md) | [Course Index](../README.md) | [Next: Reliability](reliability.md)
+<!-- COURSE_NAV_END -->
+
 # Availability
 
 ### What is availability? <a href="#what-is-availability" id="what-is-availability"></a>
@@ -33,3 +37,7 @@ We measure availability as a number of nines. The following table shows how much
 #### Availability and service providers <a href="#availability-and-service-providers" id="availability-and-service-providers"></a>
 
 Each service provider may start measuring availability at different points in time. Some cloud providers start measuring it when they first offer the service, while some measure it for specific clients when they start using the service. Some providers might not reduce their reported availability numbers if their service was not down for all the clients. The planned downtimes are excluded. Downtime due to cyberattacks might not be incorporated into the calculation of availability. Therefore, we should carefully understand how a specific provider calculates their availability numbers.
+
+<!-- COURSE_NAV_START -->
+[Previous: Non-functional System Characteristics](README.md) | [Course Index](../README.md) | [Next: Reliability](reliability.md)
+<!-- COURSE_NAV_END -->

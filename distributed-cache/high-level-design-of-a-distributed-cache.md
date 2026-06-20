@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Background of Distributed Cache](background-of-distributed-cache.md) | [Course Index](../README.md) | [Next: Detailed Design of a Distributed Cache](detailed-design-of-a-distributed-cache.md)
+<!-- COURSE_NAV_END -->
+
 # High-level Design of a Distributed Cache
 
 In this lesson, we’ll learn to design a distributed cache. We’ll also discuss the trade-offs and design choices that can occur while we progress in our journey towards developing a solution.
@@ -110,3 +114,7 @@ The main components in this high-level design are the following:
 
 * **Cache client**: This library resides in the service application servers. It holds all the information regarding cache servers. The cache client will choose one of the cache servers using a hash and search algorithm for each incoming `insert` and `retrieve` request. All the cache clients should have a consistent view of all the cache servers. Also, the resolution technique to move data to and from the cache servers should be the same. Otherwise, different clients will request different servers for the same data.
 * **Cache servers**: These servers maintain the cache of the data. Each cache server is accessible by all the cache clients. Each server is connected to the database to store or retrieve data. Cache clients use TCP or UDP protocol to perform data transfer to or from the cache servers. However, if any cache server is down, requests to those servers are resolved as a missed cache by the cache clients.
+
+<!-- COURSE_NAV_START -->
+[Previous: Background of Distributed Cache](background-of-distributed-cache.md) | [Course Index](../README.md) | [Next: Detailed Design of a Distributed Cache](detailed-design-of-a-distributed-cache.md)
+<!-- COURSE_NAV_END -->

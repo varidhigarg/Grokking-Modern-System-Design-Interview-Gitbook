@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Distributed Search](design-of-a-distributed-search.md) | [Course Index](../README.md) | [Next: Evaluation of a Distributed Search's Design](evaluation-of-a-distributed-searchs-design.md)
+<!-- COURSE_NAV_END -->
+
 # Scaling Search and Indexing
 
 ### Problems with the proposed design <a href="#problems-with-the-proposed-design-0" id="problems-with-the-proposed-design-0"></a>
@@ -75,3 +79,7 @@ To keep it simple, we have just shown two indicators for each term in the above 
 ### Summary <a href="#summary-0" id="summary-0"></a>
 
 In this lesson, we have resolved two key problems of scalability (due to colocated indexing and searching) and resource wastage (due to index recomputation) by using dedicated nodes for indexing and searching. Both operations rely on distributed storage. Furthermore, we presented a simplified description of the MapReduce framework to parallelize the indexing process.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Distributed Search](design-of-a-distributed-search.md) | [Course Index](../README.md) | [Next: Evaluation of a Distributed Search's Design](evaluation-of-a-distributed-searchs-design.md)
+<!-- COURSE_NAV_END -->

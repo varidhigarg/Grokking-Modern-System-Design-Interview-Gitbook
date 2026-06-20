@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Distributed Messaging Queue: Part 2](design-of-a-distributed-messaging-queue-part-2.md) | [Course Index](../README.md) | [Next: Quiz on the Distributed Messaging Queue’s Design](quiz-on-the-distributed-messaging-queues-design.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of a Distributed Messaging Queue’s Design
 
 We completed the process of designing a distributed messaging queue. Now, let’s analyze whether the design met the functional and non-functional requirements of a distributed messaging queue.
@@ -57,3 +61,7 @@ The message becomes visible, and another worker can receive the message, thereby
 ### Conclusion <a href="#conclusion-0" id="conclusion-0"></a>
 
 We discussed many subtleties in designing a FIFO queue in a distributed setting. We saw that there is a trade-off between strict message production, message extraction orders, and achievable throughput and latency. Relaxed ordering gives us a higher throughput and lower latency. Asking for strict ordering forces the system to do extra work to enforce wall-clock or causality-based ordering. We use different data stores with appropriate replication and partitioning to scale with data. This design exercise highlights that a construct, a producer-consumer queue, that’s simple to realize in a single-OS based system becomes much more difficult in a distributed setting.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Distributed Messaging Queue: Part 2](design-of-a-distributed-messaging-queue-part-2.md) | [Course Index](../README.md) | [Next: Quiz on the Distributed Messaging Queue’s Design](quiz-on-the-distributed-messaging-queues-design.md)
+<!-- COURSE_NAV_END -->

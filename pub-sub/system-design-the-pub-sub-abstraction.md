@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Pub-sub](README.md) | [Course Index](../README.md) | [Next: Introduction to Pub-sub](introduction-to-pub-sub.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: The Pub-sub Abstraction
 
 ### What is a pub-sub system? <a href="#what-is-a-pub-sub-system-0" id="what-is-a-pub-sub-system-0"></a>
@@ -18,3 +22,7 @@ We have divided the pub-sub system design into the following lessons:
 
 1. [**Introduction**:](introduction-to-pub-sub.md) In this lesson, we learn about the use cases of the pub-sub system, define its requirements, and design the API for it.
 2. [**Design**:](design-of-a-pub-sub-system.md) In this lesson, we discuss two designs of the pub-sub system, one with messaging queues and the other with a broker.
+
+<!-- COURSE_NAV_START -->
+[Previous: Pub-sub](README.md) | [Course Index](../README.md) | [Next: Introduction to Pub-sub](introduction-to-pub-sub.md)
+<!-- COURSE_NAV_END -->

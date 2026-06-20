@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of YouTube's Design](requirements-of-youtubes-design.md) | [Course Index](../README.md) | [Next: Evaluation of YouTube's Design](evaluation-of-youtubes-design.md)
+<!-- COURSE_NAV_END -->
+
 # Design of YouTube
 
 ### High-level design <a href="#high-level-design-0" id="high-level-design-0"></a>
@@ -197,3 +201,7 @@ Each of the JSON files can be referred to as a document. Next, keywords will be 
 <figure><img src="../.gitbook/assets/Screenshot 2023-09-03 at 3.32.07 AM.png" alt=""><figcaption></figcaption></figure>
 
 The approach above is simplistic, and the relevance of keywords is not the only factor affecting search in YouTube. In reality, a number of other factors will matter. The processing engine will improve the search results by filtering and ranking videos. It will make use of other factors like view count, the watch time of videos, and the context, along with the history of the user, to improve search results.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of YouTube's Design](requirements-of-youtubes-design.md) | [Course Index](../README.md) | [Next: Evaluation of YouTube's Design](evaluation-of-youtubes-design.md)
+<!-- COURSE_NAV_END -->

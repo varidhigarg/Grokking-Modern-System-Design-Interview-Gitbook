@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design Improvements of a Web Crawler](design-improvements-of-a-web-crawler.md) | [Course Index](../README.md) | [Next: Design WhatsApp](../design-whatsapp.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of Web Crawler's Design
 
 ### Reviewing design requirements <a href="#reviewing-design-requirements-0" id="reviewing-design-requirements-0"></a>
@@ -61,3 +65,7 @@ The web crawler system entails a multi-worker design that uses a microservices a
 
 1. Identification and design modification for crawler traps
 2. Extensibility of HTML fetching and content extraction modules
+
+<!-- COURSE_NAV_START -->
+[Previous: Design Improvements of a Web Crawler](design-improvements-of-a-web-crawler.md) | [Course Index](../README.md) | [Next: Design WhatsApp](../design-whatsapp.md)
+<!-- COURSE_NAV_END -->

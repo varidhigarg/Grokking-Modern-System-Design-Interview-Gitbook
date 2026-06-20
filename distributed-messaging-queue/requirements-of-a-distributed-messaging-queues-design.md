@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Distributed Messaging Queue](system-design-the-distributed-messaging-queue.md) | [Course Index](../README.md) | [Next: Considerations of a Distributed Messaging Queue’s Design](considerations-of-a-distributed-messaging-queues-design.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of a Distributed Messaging Queue’s Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -55,3 +59,7 @@ The design of a distributed messaging queue utilizes the following building bloc
 * [**Load balancers**](https://www.educative.io/collection/page/10370001/4941429335392256/4521972679049216) are used to direct incoming requests to servers where the metadata is stored.
 
 In our discussion on messaging queues, we focused on their functional and non-functional requirements. Before moving on to the process of designing a distributed messaging queue, it’s essential for us to discuss some key considerations and challenges that may affect the design.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Distributed Messaging Queue](system-design-the-distributed-messaging-queue.md) | [Course Index](../README.md) | [Next: Considerations of a Distributed Messaging Queue’s Design](considerations-of-a-distributed-messaging-queues-design.md)
+<!-- COURSE_NAV_END -->

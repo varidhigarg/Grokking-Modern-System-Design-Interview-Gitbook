@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Enable Fault Tolerance and Failure Detection](enable-fault-tolerance-and-failure-detection.md) | [Course Index](../README.md) | [Next: Content Delivery Network (CDN)](../content-delivery-network-cdn/README.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: The Key-value Store
 
 ### Introduction to key-value stores <a href="#introduction-to-key-value-stores" id="introduction-to-key-value-stores"></a>
@@ -20,3 +24,7 @@ We’ve divided the key-value system design into the following four lessons:
 2. [**Ensure Scalability and Replication**](ensure-scalability-and-replication.md): We’ll learn to achieve scalability using consistent hashing and replicate the partitioned data.
 3. [**Versioning Data and Achieving Configurability**](versioning-data-and-achieving-configurability.md): We’ll learn to resolve conflicts that occur due to changes made by more than one entity, and we’ll make our system more configurable for different use cases.
 4. [**Enable Fault Tolerance and Failure Detection**](enable-fault-tolerance-and-failure-detection.md): We’ll learn to make a key-value store fault tolerant and how to detect failures in the system.
+
+<!-- COURSE_NAV_START -->
+[Previous: Enable Fault Tolerance and Failure Detection](enable-fault-tolerance-and-failure-detection.md) | [Course Index](../README.md) | [Next: Content Delivery Network (CDN)](../content-delivery-network-cdn/README.md)
+<!-- COURSE_NAV_END -->

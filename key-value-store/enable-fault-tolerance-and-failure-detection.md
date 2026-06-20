@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Ensure Scalability and Replication](ensure-scalability-and-replication.md) | [Course Index](../README.md) | [Next: System Design: The Key-value Store](system-design-the-key-value-store.md)
+<!-- COURSE_NAV_END -->
+
 # Enable Fault Tolerance and Failure Detection
 
 ### Handle temporary failures <a href="#handle-temporary-failures" id="handle-temporary-failures"></a>
@@ -123,3 +127,7 @@ Decentralized failure detection protocols use a gossip-based protocol that allow
 ### Conclusion <a href="#conclusion" id="conclusion"></a>
 
 A key-value store provides flexibility and allows us to scale the applications that have unstructured data. Web applications can use key-value stores to store information about a user’s session and preferences. When using a user key, all the data is accessible, and key-value stores are ideal for rapid reads and write operations. Key-value stores can be used to power real-time recommendations and advertising because the stores can swiftly access and present fresh recommendations.
+
+<!-- COURSE_NAV_START -->
+[Previous: Ensure Scalability and Replication](ensure-scalability-and-replication.md) | [Course Index](../README.md) | [Next: System Design: The Key-value Store](system-design-the-key-value-store.md)
+<!-- COURSE_NAV_END -->

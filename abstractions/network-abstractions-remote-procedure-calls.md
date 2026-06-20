@@ -2,6 +2,10 @@
 description: Look into what remote procedure calls are and how they help developers.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Why Are Abstractions Important?](why-are-abstractions-important.md) | [Course Index](../README.md) | [Next: Spectrum of Consistency Models](spectrum-of-consistency-models.md)
+<!-- COURSE_NAV_END -->
+
 # Network Abstractions: Remote Procedure Calls
 
 **Remote procedure calls** (**RPCs**) provide an abstraction of a local procedure call to the developers by hiding the complexities of packing and sending function arguments to the remote server, receiving the return values, and managing any network retries.
@@ -52,3 +56,7 @@ During the RPC process, the following steps occur:
 The RPC method is similar to calling a local procedure, except that the called procedure is usually executed in a different process and on a different computer.
 
 RPC allows developers to build applications on top of distributed systems. Developers can use the RPC method without knowing the network communication details. As a result, they can concentrate on the design aspects, rather than the machine and communication-level specifics.
+
+<!-- COURSE_NAV_START -->
+[Previous: Why Are Abstractions Important?](why-are-abstractions-important.md) | [Course Index](../README.md) | [Next: Spectrum of Consistency Models](spectrum-of-consistency-models.md)
+<!-- COURSE_NAV_END -->

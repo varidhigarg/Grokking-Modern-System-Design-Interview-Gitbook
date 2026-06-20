@@ -2,6 +2,10 @@
 description: Learn some helpful tips on how to perform during a system design interview.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: How to Prepare for Success](how-to-prepare-for-success.md) | [Course Index](../README.md) | [Next: Abstractions](../abstractions/README.md)
+<!-- COURSE_NAV_END -->
+
 # How to Perform Well
 
 ### What to do during the interview[#](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/xVXol171Ex9#What-to-do-during-the-interview) <a href="#what-to-do-during-the-interview" id="what-to-do-during-the-interview"></a>
@@ -92,3 +96,7 @@ Here are a few things that we should avoid doing in a system design interview:
 The don'ts of a system design interview
 
 > **Note:** If an interviewer asks us to design a system we haven’t heard of, we should just be honest and tell them so. The interviewer will either explain it to us or they might change the question.
+
+<!-- COURSE_NAV_START -->
+[Previous: How to Prepare for Success](how-to-prepare-for-success.md) | [Course Index](../README.md) | [Next: Abstractions](../abstractions/README.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Monitoring System](design-of-a-monitoring-system.md) | [Course Index](../README.md) | [Next: Visualize Data in a Monitoring System](visualize-data-in-a-monitoring-system.md)
+<!-- COURSE_NAV_END -->
+
 # Detailed Design of a Monitoring System
 
 We’ll discuss the core components of our monitoring system, identify the shortcomings of our design, and improve the design to fulfill our requirements.
@@ -105,3 +109,6 @@ It also helps to have external components to the monitoring, where external migh
 
 Humans need to consume enormous amounts of data, and even after different kinds of data summarizations, the data can still be huge. Next, we’ll tackle how to present enormous data to human administrators.
 
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Monitoring System](design-of-a-monitoring-system.md) | [Course Index](../README.md) | [Next: Visualize Data in a Monitoring System](visualize-data-in-a-monitoring-system.md)
+<!-- COURSE_NAV_END -->

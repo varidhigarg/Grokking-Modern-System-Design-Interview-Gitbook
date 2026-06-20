@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: High-level Design of WhatsApp](high-level-design-of-whatsapp.md) | [Course Index](../README.md) | [Next: Evaluation of WhatsApp’s Design](evaluation-of-whatsapps-design.md)
+<!-- COURSE_NAV_END -->
+
 # Detailed Design of WhatsApp
 
 ### Detailed design <a href="#detailed-design-0" id="detailed-design-0"></a>
@@ -131,3 +135,7 @@ We discussed the features of our WhatsApp system design. It includes user connec
 <figure><img src="../.gitbook/assets/Screenshot 2023-09-06 at 2.03.35 AM.png" alt=""><figcaption></figcaption></figure>
 
 In the next lesson, we’ll evaluate our design and look into the non-functional requirements.
+
+<!-- COURSE_NAV_START -->
+[Previous: High-level Design of WhatsApp](high-level-design-of-whatsapp.md) | [Course Index](../README.md) | [Next: Evaluation of WhatsApp’s Design](evaluation-of-whatsapps-design.md)
+<!-- COURSE_NAV_END -->

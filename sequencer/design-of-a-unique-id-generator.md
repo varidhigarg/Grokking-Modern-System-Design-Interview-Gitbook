@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Sequencer](system-design-sequencer.md) | [Course Index](../README.md) | [Next: Unique IDs with Causality](unique-ids-with-causality.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Unique ID Generator
 
 In the [previous](system-design-sequencer.md) lesson, we saw that we need unique identifiers for many use cases, such as identifying objects (for example, Tweets, uploaded videos, and so on) and tracing the execution flow in a complex web of services. Now, we’ll formalize the requirements for a unique identifier and discuss three progressively improving designs to meet our requirements.
@@ -109,3 +113,7 @@ The following table sums up what this approach fulfills for us:
 | **Using a range handler** | ✔️         | ✔️             | ✔️            | ✔️                    |
 
 We developed a solution that provides us with a unique ID, which we can assign to various events and even use as a primary key. But what if we add a requirement that the ID is time sortable too?
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Sequencer](system-design-sequencer.md) | [Course Index](../README.md) | [Next: Unique IDs with Causality](unique-ids-with-causality.md)
+<!-- COURSE_NAV_END -->

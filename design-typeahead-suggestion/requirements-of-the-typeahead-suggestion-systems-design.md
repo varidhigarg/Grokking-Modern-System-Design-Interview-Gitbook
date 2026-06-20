@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Typeahead Suggestion System](system-design-the-typeahead-suggestion-system.md) | [Course Index](../README.md) | [Next: High-level Design of the Typeahead Suggestion System](high-level-design-of-the-typeahead-suggestion-system.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of the Typeahead Suggestion System’s Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -63,3 +67,7 @@ The design of the typeahead suggestion system consists of the following building
 * [**Caches**](../distributed-cache/system-design-the-distributed-cache.md) are used to keep the top �N suggestions for fast retrieval.
 
 In the next lesson, we’ll focus on the high-level design and APIs of the typeahead suggestion system.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Typeahead Suggestion System](system-design-the-typeahead-suggestion-system.md) | [Course Index](../README.md) | [Next: High-level Design of the Typeahead Suggestion System](high-level-design-of-the-typeahead-suggestion-system.md)
+<!-- COURSE_NAV_END -->

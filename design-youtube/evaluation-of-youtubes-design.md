@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of YouTube](design-of-youtube.md) | [Course Index](../README.md) | [Next: The Reality Is More Complicated](the-reality-is-more-complicated.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of YouTube's Design
 
 ### Fulfilling requirements <a href="#fulfilling-requirements-0" id="fulfilling-requirements-0"></a>
@@ -116,3 +120,7 @@ Terminal 1Terminal
 Click to Connect...
 
 > **Note:** ESF is a custom web server developed by Google, and as of early 2022, it is widely in use in the Google ecosystem because out-of-the-box solutions were not enough for YouTube’s needs.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of YouTube](design-of-youtube.md) | [Course Index](../README.md) | [Next: The Reality Is More Complicated](the-reality-is-more-complicated.md)
+<!-- COURSE_NAV_END -->

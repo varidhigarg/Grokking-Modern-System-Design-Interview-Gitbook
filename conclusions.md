@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: AWS Wide Spread Outage](spectacular-failures/aws-wide-spread-outage.md) | [Course Index](README.md) | Next: none
+<!-- COURSE_NAV_END -->
+
 # Conclusions
 
 Let's sum up what we’ve learned in this course.
@@ -31,3 +35,7 @@ At this point, we’ve built our system design toolbox, and we can now pick the 
 Finally, we would like to thank you for taking the time to complete this course! We hope that it was a great experience for you. Please feel free to drop us an email or leave a comment on our community forum about any suggestions that you may have.
 
 — Team Educative
+
+<!-- COURSE_NAV_START -->
+[Previous: AWS Wide Spread Outage](spectacular-failures/aws-wide-spread-outage.md) | [Course Index](README.md) | Next: none
+<!-- COURSE_NAV_END -->

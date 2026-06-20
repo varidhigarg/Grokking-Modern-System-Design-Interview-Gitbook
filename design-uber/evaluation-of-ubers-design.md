@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Payment Service and Fraud Detection in Uber Design](payment-service-and-fraud-detection-in-uber-design.md) | [Course Index](../README.md) | [Next: Quiz on Uber's Design](quiz-on-ubers-design.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of Uber’s Design
 
 ### Fulfill non-functional requirements <a href="#fulfill-non-functional-requirements-0" id="fulfill-non-functional-requirements-0"></a>
@@ -37,3 +41,7 @@ Our system is able to detect any fraudulent activity related to payment. We used
 ### Conclusion <a href="#conclusion-0" id="conclusion-0"></a>
 
 This chapter taught us how to design a ride-hailing service like Uber. We discussed its functional and non-functional requirements. We learned how to efficiently locate drivers on the map using QuadTrees. We also discussed how to efficiently calculate the estimated time of arrival using routing algorithms and machine learning. Additionally, we learned that guarding our service against fraudulent activities is important for the business’s success.
+
+<!-- COURSE_NAV_START -->
+[Previous: Payment Service and Fraud Detection in Uber Design](payment-service-and-fraud-detection-in-uber-design.md) | [Course Index](../README.md) | [Next: Quiz on Uber's Design](quiz-on-ubers-design.md)
+<!-- COURSE_NAV_END -->

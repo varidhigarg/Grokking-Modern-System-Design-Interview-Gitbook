@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Evaluation of a Distributed Cache's Design](evaluation-of-a-distributed-caches-design.md) | [Course Index](../README.md) | [Next: Distributed Messaging Queue](../distributed-messaging-queue.md)
+<!-- COURSE_NAV_END -->
+
 # Memcached versus Redis
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -128,3 +132,7 @@ The main advantage is that Redis can modify data in place without wasting networ
 ### Conclusion <a href="#conclusion-0" id="conclusion-0"></a>
 
 It’s impossible to imagine high-speed large-scale solutions without the use of a caching system. In this chapter, we covered the need for a caching system and its fundamental details, and we orchestrated a basic distributed cache system. We also familiarized ourselves with the design and features of two of the most well-known caching frameworks.
+
+<!-- COURSE_NAV_START -->
+[Previous: Evaluation of a Distributed Cache's Design](evaluation-of-a-distributed-caches-design.md) | [Course Index](../README.md) | [Next: Distributed Messaging Queue](../distributed-messaging-queue.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Distributed Task Scheduler](../distributed-task-scheduler.md) | [Course Index](../README.md) | [Next: Requirements of a Distributed Task Scheduler's Design](requirements-of-a-distributed-task-schedulers-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: The Distributed Task Scheduler
 
 ### What is a task scheduler? <a href="#what-is-a-task-scheduler" id="what-is-a-task-scheduler"></a>
@@ -48,3 +52,7 @@ We have divided the design of the task scheduler into four lessons:
 4. [**Evaluation:**](evaluation-of-a-distributed-task-schedulers-design.md) We’ll evaluate our design of task scheduler based on our requirements.
 
 Let’s start by understanding the requirements of a task scheduling system.
+
+<!-- COURSE_NAV_START -->
+[Previous: Distributed Task Scheduler](../distributed-task-scheduler.md) | [Course Index](../README.md) | [Next: Requirements of a Distributed Task Scheduler's Design](requirements-of-a-distributed-task-schedulers-design.md)
+<!-- COURSE_NAV_END -->

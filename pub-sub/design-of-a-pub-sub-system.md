@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Pub-sub](introduction-to-pub-sub.md) | [Course Index](../README.md) | [Next: Rate Limiter](../rate-limiter.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Pub-sub System
 
 ### First design <a href="#first-design-0" id="first-design-0"></a>
@@ -161,3 +165,7 @@ The finalized design of our pub-sub system is shown below.
 We saw two designs of pub-sub, using queues and using our custom storage optimized for writing and reading small-sized data.
 
 There are numerous use cases of a pub-sub. Due to decoupling between producers and consumers, the system can scale dynamically, and the failures are well-contained. Additionally, due to proper accounting of data consumption, the pub-sub is a system of choice for a large-scale system that produces enormous data. We can determine precisely which data is needed and not needed.
+
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Pub-sub](introduction-to-pub-sub.md) | [Course Index](../README.md) | [Next: Rate Limiter](../rate-limiter.md)
+<!-- COURSE_NAV_END -->

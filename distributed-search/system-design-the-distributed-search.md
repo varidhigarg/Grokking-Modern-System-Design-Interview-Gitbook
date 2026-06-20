@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Distributed Search](../distributed-search.md) | [Course Index](../README.md) | [Next: Requirements of a Distributed Search System's Design](requirements-of-a-distributed-search-systems-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: The Distributed Search
 
 ### Why do we need a search system? <a href="#why-do-we-need-a-search-system-0" id="why-do-we-need-a-search-system-0"></a>
@@ -35,3 +39,7 @@ We divided the design of a distributed search system into five lessons:
 5. [**Evaluation:**](evaluation-of-a-distributed-searchs-design.md) This lesson explains how our designed distributed search system fulfills its requirements.
 
 Let’s start by understanding the requirements of designing a distributed search system.
+
+<!-- COURSE_NAV_START -->
+[Previous: Distributed Search](../distributed-search.md) | [Course Index](../README.md) | [Next: Requirements of a Distributed Search System's Design](requirements-of-a-distributed-search-systems-design.md)
+<!-- COURSE_NAV_END -->

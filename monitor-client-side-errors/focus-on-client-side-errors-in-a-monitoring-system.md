@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Monitor Client-side Errors](README.md) | [Course Index](../README.md) | [Next: Design of a Client-side Monitoring System](design-of-a-client-side-monitoring-system.md)
+<!-- COURSE_NAV_END -->
+
 # Focus on Client-side Errors in a Monitoring System
 
 ### Client-side errors <a href="#client-side-errors-0" id="client-side-errors-0"></a>
@@ -27,3 +31,7 @@ One of Google’s peer ISPs accidentally announced Internet routes that it wasn�
 The above leak isn’t unique. Similar issues keep arising. Another such leakage happened on April 16, 2021, when an AS mistakenly announced over 30,000 BGP prefixes. This resulted in a 13 times spike in the inbound traffic to their network. However, an increase in influx was observed, and the problem was solved.
 
 The impacted services’ monitoring systems might not catch the above events readily. Monitoring such situations is crucial so that the application remains available for all of its customers. Therefore, in the next lessons, we’ll go through methods that help us to monitor the situations mentioned above.
+
+<!-- COURSE_NAV_START -->
+[Previous: Monitor Client-side Errors](README.md) | [Course Index](../README.md) | [Next: Design of a Client-side Monitoring System](design-of-a-client-side-monitoring-system.md)
+<!-- COURSE_NAV_END -->

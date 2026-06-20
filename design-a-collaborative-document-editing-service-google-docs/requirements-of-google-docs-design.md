@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Google Docs](system-design-google-docs.md) | [Course Index](../README.md) | [Next: Design of Google Docs](design-of-google-docs.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of Google Docs’ Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -119,3 +123,7 @@ Building blocks required to be integrated in the design
 * [**Blob storage**](../blob-store/system-design-a-blob-store.md) will store large files, such as images and videos.
 * [**A Queueing system** ](../distributed-messaging-queue/system-design-the-distributed-messaging-queue.md)will queue editing operations requested by different users. Because many editing requests can’t be performed simultaneously, we have to temporarily put them in a queue.
 * [**A CDN** ](../content-delivery-network-cdn/system-design-the-content-delivery-network-cdn.md)can store frequently accessed media in a document. We can also put read-only documents that are frequently requested in a CDN.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Google Docs](system-design-google-docs.md) | [Course Index](../README.md) | [Next: Design of Google Docs](design-of-google-docs.md)
+<!-- COURSE_NAV_END -->

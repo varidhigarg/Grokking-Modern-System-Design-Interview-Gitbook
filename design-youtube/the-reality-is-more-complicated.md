@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Evaluation of YouTube's Design](evaluation-of-youtubes-design.md) | [Course Index](../README.md) | [Next: Quiz on YouTube's Design](quiz-on-youtubes-design.md)
+<!-- COURSE_NAV_END -->
+
 # The Reality Is More Complicated
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -141,3 +145,7 @@ There can be many different aspects of the system design of YouTube as there is 
 9.  **Question**: Are there any other benefits to making file chunks other than in adaptive bitrates?
 
     We discussed video file chunks in the context of adaptive bit rates only. Such chunks also help to parallelize any preprocessing, which is important to meet real-time requirements, especially for live streams. Parallel processing is again a full-fledged topic in itself, and we’ve left it to you for further exploration.
+
+<!-- COURSE_NAV_START -->
+[Previous: Evaluation of YouTube's Design](evaluation-of-youtubes-design.md) | [Course Index](../README.md) | [Next: Quiz on YouTube's Design](quiz-on-youtubes-design.md)
+<!-- COURSE_NAV_END -->

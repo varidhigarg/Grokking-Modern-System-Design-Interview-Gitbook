@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Versioning Data and Achieving Configurability](versioning-data-and-achieving-configurability.md) | [Course Index](../README.md) | [Next: Enable Fault Tolerance and Failure Detection](enable-fault-tolerance-and-failure-detection.md)
+<!-- COURSE_NAV_END -->
+
 # Ensure Scalability and Replication
 
 ### Add scalability <a href="#add-scalability" id="add-scalability"></a>
@@ -100,3 +104,7 @@ What is the impact of synchronous or asynchronous replication?
 In synchronous replication, the speed of writing is slow because the data has to be replicated to all the nodes before acknowledging the user. It affects our availability, so we can’t apply it. When we opt for asynchronous replication, it allows us to do speedy writes to the nodes.
 
 In the context of the CAP theorem, key-value stores can either be consistent or be available when there are network partitions. For key-value stores, we prefer availability over consistency. It means if the two storage nodes lost connection for replication, they would keep on handling the requests sent to them, and when the connection is restored, they’ll sync up. In the disconnected phase, it’s highly possible for the nodes to be inconsistent. So, we need to resolve such conflicts. In the next lesson, we’ll learn a concept to handle inconsistencies using the versioning of our data.
+
+<!-- COURSE_NAV_START -->
+[Previous: Versioning Data and Achieving Configurability](versioning-data-and-achieving-configurability.md) | [Course Index](../README.md) | [Next: Enable Fault Tolerance and Failure Detection](enable-fault-tolerance-and-failure-detection.md)
+<!-- COURSE_NAV_END -->

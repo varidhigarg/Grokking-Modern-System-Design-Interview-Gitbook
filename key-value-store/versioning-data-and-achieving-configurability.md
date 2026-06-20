@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Key-value Store](design-of-a-key-value-store.md) | [Course Index](../README.md) | [Next: Ensure Scalability and Replication](ensure-scalability-and-replication.md)
+<!-- COURSE_NAV_END -->
+
 # Versioning Data and Achieving Configurability
 
 ### Data versioning <a href="#data-versioning" id="data-versioning"></a>
@@ -111,3 +115,7 @@ The coordinator produces the vector clock for the new version and writes the new
 Requests for a `get()` operation are made to the n highest-ranked reachable nodes in a preference list for a key. They wait for r answers before returning the results to the client. Coordinators return all dataset versions that they regard as unrelated if they get several datasets from the same source (divergent histories that need reconciliation). The conflicting versions are then merged, and the resulting key’s value is rewritten to override the previous versions.
 
 By now, we’ve fulfilled the scalability, availability, conflict-resolution, and configurable service requirements. The last requirement is to have a fault-tolerant system. Let’s discuss how we’ll achieve it in the next lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Key-value Store](design-of-a-key-value-store.md) | [Course Index](../README.md) | [Next: Ensure Scalability and Replication](ensure-scalability-and-replication.md)
+<!-- COURSE_NAV_END -->

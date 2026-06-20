@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Distributed System Failures](introduction-to-distributed-system-failures.md) | [Course Index](../README.md) | [Next: AWS Kinesis Outage Affecting Many Organizations](aws-kinesis-outage-affecting-many-organizations.md)
+<!-- COURSE_NAV_END -->
+
 # Facebook, WhatsApp, Instagram, Oculus Outage
 
 In October 2021, Facebook experienced a global outage for about six hours, affecting its other affiliates, including Messenger, WhatsApp, Mapillary, Instagram, and Oculus. Popular media reported the impact of this failure prominently. The _New York Times_ reported the following headline: “Gone in Minutes, Out for Hours: Outage Shakes Facebook.”
@@ -59,3 +63,7 @@ Some possible solutions can look like the following:
 * There can be more than one layer of auditing. Second layers might use a simulator to make sure that after the configuration changes, critical network infrastructures remain available from multiple global vantage points.
 * Every effort should be taken to reduce the scope of a configuration change to avoid cascading effects.
 * Critical infrastructure might be programmed in such a way that if something bad happens, it could return to the last known good state. This is easier said than done owing to the sheer number of components.
+
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Distributed System Failures](introduction-to-distributed-system-failures.md) | [Course Index](../README.md) | [Next: AWS Kinesis Outage Affecting Many Organizations](aws-kinesis-outage-affecting-many-organizations.md)
+<!-- COURSE_NAV_END -->

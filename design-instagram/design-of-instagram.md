@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Instagram’s Design](requirements-of-instagrams-design.md) | [Course Index](../README.md) | [Next: Detailed Design of Instagram](detailed-design-of-instagram.md)
+<!-- COURSE_NAV_END -->
+
 # Design of Instagram
 
 ### High-level design <a href="#high-level-design-0" id="high-level-design-0"></a>
@@ -146,3 +150,7 @@ You can change the values in the calculator to observe the change in storage nee
 > **Note:** Most modern services use both SQL and NoSQL stores. Instagram officially uses a combination of SQL (PostgreSQL) and No-SQL (Cassandra) databases. The loosely structured data like timeline generation is usually stored in No-SQL, while relational data is saved in SQL-based storage.
 
 In the next lesson, we’ll identify more components to tweak our design.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Instagram’s Design](requirements-of-instagrams-design.md) | [Course Index](../README.md) | [Next: Detailed Design of Instagram](detailed-design-of-instagram.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design a Proximity Service / Yelp](../design-a-proximity-service-yelp.md) | [Course Index](../README.md) | [Next: Requirements of Yelp’s Design](requirements-of-yelps-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: Yelp
 
 ### What is Yelp? <a href="#what-is-yelp-0" id="what-is-yelp-0"></a>
@@ -26,3 +30,7 @@ Here is the breakdown of Yelp’s design:
 4. [**Quiz**](quiz-on-yelps-design.md): In this lesson, we take a quiz to test our knowledge of Yelp design.
 
 Let’s start our design by defining its requirements.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design a Proximity Service / Yelp](../design-a-proximity-service-yelp.md) | [Course Index](../README.md) | [Next: Requirements of Yelp’s Design](requirements-of-yelps-design.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Relational Database](relational-database.md) | [Course Index](../../README.md) | [Next: Graph Database](graph-database.md)
+<!-- COURSE_NAV_END -->
+
 # Document-Oriented Database
 
 ### What is a document-oriented database? <a href="#what-is-a-document-oriented-database" id="what-is-a-document-oriented-database"></a>
@@ -38,3 +42,7 @@ Here are some of the good real-world implementations of the tech:
 [SEGA uses Mongo-DB](https://www.mongodb.com/blog/post/sega-hardlight-migrates-to-mongodb-atlas-simplify-ops-improve-experience-mobile-gamers) to improve the experience for millions of mobile gamers.
 
 [Wix Engineering uses MongoDB](https://www.wix.engineering/post/how-we-re-able-to-host-1-million-sites-per-mongodb-cluster) to host sites built on their platform.
+
+<!-- COURSE_NAV_START -->
+[Previous: Relational Database](relational-database.md) | [Course Index](../../README.md) | [Next: Graph Database](graph-database.md)
+<!-- COURSE_NAV_END -->

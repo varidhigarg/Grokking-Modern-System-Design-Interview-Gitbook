@@ -2,6 +2,10 @@
 description: Explore the importance of abstraction.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Abstractions](README.md) | [Course Index](../README.md) | [Next: Network Abstractions: Remote Procedure Calls](network-abstractions-remote-procedure-calls.md)
+<!-- COURSE_NAV_END -->
+
 # Why Are Abstractions Important?
 
 ### What is abstraction? <a href="#what-is-abstraction" id="what-is-abstraction"></a>
@@ -31,3 +35,7 @@ The abstraction of distributed systems has grown in popularity as many big compa
 Today’s applications can’t remain responsive/functional if they’re based on a single node because of an exponentially growing number of users. Abstractions in distributed systems help engineers shift to distributed systems quickly to scale their applications.
 
 > **Note:** We’ll see the use of abstractions in communications, data consistency, and failures in this chapter. The purpose is to convey the core ideas, but not necessarily all the subtleties of the concepts.
+
+<!-- COURSE_NAV_START -->
+[Previous: Abstractions](README.md) | [Course Index](../README.md) | [Next: Network Abstractions: Remote Procedure Calls](network-abstractions-remote-procedure-calls.md)
+<!-- COURSE_NAV_END -->

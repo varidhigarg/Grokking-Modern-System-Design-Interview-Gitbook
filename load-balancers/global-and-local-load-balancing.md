@@ -2,6 +2,10 @@
 description: Understand how global and local load balancing is performed.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Load Balancers](introduction-to-load-balancers.md) | [Course Index](../README.md) | [Next: Advanced Details of Load Balancers](advanced-details-of-load-balancers.md)
+<!-- COURSE_NAV_END -->
+
 # Global and Local Load Balancing
 
 ### Introduction <a href="#introduction" id="introduction"></a>
@@ -75,3 +79,7 @@ Yes, there are actually two ways of doing global traffic management (GTM):
 * **GTM through DNS**: DNS does GSLB by analyzing the IP location of the client. For each user requesting IP for a domain name (for example, [www.educative.io](http://www.educative.io/)), DNS-based GSLB forwards the IP address of the data center geographically closer to the requesting IP location.
 
 In the next lesson, we’ll explore some advanced details of local load balancers.
+
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Load Balancers](introduction-to-load-balancers.md) | [Course Index](../README.md) | [Next: Advanced Details of Load Balancers](advanced-details-of-load-balancers.md)
+<!-- COURSE_NAV_END -->

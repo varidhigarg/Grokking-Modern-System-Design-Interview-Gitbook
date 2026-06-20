@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Rate Limiter](../rate-limiter.md) | [Course Index](../README.md) | [Next: Requirements of a Rate Limiter’s Design](requirements-of-a-rate-limiters-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: The Rate Limiter
 
 ### What is a rate limiter? <a href="#what-is-a-rate-limiter-0" id="what-is-a-rate-limiter-0"></a>
@@ -30,3 +34,7 @@ In the following lessons, we will learn about the following:
 5. [**Quiz:**](quiz-on-the-rate-limiters-design.md) To assess your understanding of rate limiters, we’ve provided a quiz at the end of this chapter.
 
 In the next lesson, let’s start by understanding the requirements and design of a rate limiter.
+
+<!-- COURSE_NAV_START -->
+[Previous: Rate Limiter](../rate-limiter.md) | [Course Index](../README.md) | [Next: Requirements of a Rate Limiter’s Design](requirements-of-a-rate-limiters-design.md)
+<!-- COURSE_NAV_END -->

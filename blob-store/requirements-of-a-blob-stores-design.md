@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: A Blob Store](system-design-a-blob-store.md) | [Course Index](../README.md) | [Next: Design of a Blob Store](design-of-a-blob-store.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of a Blob Store's Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -103,3 +107,7 @@ We use the following building blocks in the design of our blob store system:
 * [**Monitoring:**](https://www.educative.io/collection/page/10370001/4941429335392256/6310983387840512) Monitoring is needed to inspect storage devices and the space available on them in order to add storage on time if needed.
 
 In this lesson, we discussed the requirements and estimations of the blob store system. We’ll design the blob store system in the next lesson, all while following the delineated requirements.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: A Blob Store](system-design-a-blob-store.md) | [Course Index](../README.md) | [Next: Design of a Blob Store](design-of-a-blob-store.md)
+<!-- COURSE_NAV_END -->

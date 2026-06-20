@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Quora](system-design-quora.md) | [Course Index](../README.md) | [Next: Initial Design of Quora](initial-design-of-quora.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of Quora's Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -105,3 +109,7 @@ Detailed Calculations
 * [**Databases**](../databases/introduction-to-databases.md) are essential for storing all sorts of data, such as user questions and answers, comments, and likes and dislikes. Also, user data will be stored in the databases. We may use different types of databases to store different data.
 * [**A distributed caching system**](../distributed-cache/system-design-the-distributed-cache.md) will be used to store frequently accessed data. We can also use caching to store our view counters for different questions.
 * [**The blob store**](../blob-store/system-design-a-blob-store.md) will keep images and video files.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Quora](system-design-quora.md) | [Course Index](../README.md) | [Next: Initial Design of Quora](initial-design-of-quora.md)
+<!-- COURSE_NAV_END -->

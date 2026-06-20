@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: TinyURL](system-design-tinyurl.md) | [Course Index](../README.md) | [Next: Design and Deployment of TinyURL](design-and-deployment-of-tinyurl.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of TinyURL's Design
 
 ### Requirements for URL Shortening Design <a href="#requirements-for-url-shortening-design-0" id="requirements-for-url-shortening-design-0"></a>
@@ -137,3 +141,7 @@ Besides these building blocks, we'll also need the following additional componen
 
 * **Servers** to handle and navigate the service requests along with running the application logic.
 * A **Base-58 encoder** to transform the sequencer’s numeric output to a more readable and usable alphanumeric form.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: TinyURL](system-design-tinyurl.md) | [Course Index](../README.md) | [Next: Design and Deployment of TinyURL](design-and-deployment-of-tinyurl.md)
+<!-- COURSE_NAV_END -->

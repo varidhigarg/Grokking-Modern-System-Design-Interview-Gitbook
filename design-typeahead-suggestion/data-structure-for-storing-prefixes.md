@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: High-level Design of the Typeahead Suggestion System](high-level-design-of-the-typeahead-suggestion-system.md) | [Course Index](../README.md) | [Next: Detailed Design of the Typeahead Suggestion System](detailed-design-of-the-typeahead-suggestion-system.md)
+<!-- COURSE_NAV_END -->
+
 # Data Structure for Storing Prefixes
 
 ### The trie data structure <a href="#the-trie-data-structure-0" id="the-trie-data-structure-0"></a>
@@ -91,3 +95,7 @@ We can normalize frequencies by mapping them in a range, let’s say between zer
 \-------------------
 
 In the next lesson, we’ll discuss the detailed design of the typeahead suggestion system.
+
+<!-- COURSE_NAV_START -->
+[Previous: High-level Design of the Typeahead Suggestion System](high-level-design-of-the-typeahead-suggestion-system.md) | [Course Index](../README.md) | [Next: Detailed Design of the Typeahead Suggestion System](detailed-design-of-the-typeahead-suggestion-system.md)
+<!-- COURSE_NAV_END -->

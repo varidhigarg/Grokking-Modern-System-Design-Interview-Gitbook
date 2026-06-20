@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Google Docs’ Design](requirements-of-google-docs-design.md) | [Course Index](../README.md) | [Next: Concurrency in Collaborative Editing](concurrency-in-collaborative-editing.md)
+<!-- COURSE_NAV_END -->
+
 # Design of Google Docs
 
 ### Design <a href="#design-0" id="design-0"></a>
@@ -77,3 +81,6 @@ For scalability purposes, it’s suitable to store the view counter data in NoSQ
 
 To complete the design, we’ll have to connect the view counter with the NoSQL database.
 
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Google Docs’ Design](requirements-of-google-docs-design.md) | [Course Index](../README.md) | [Next: Concurrency in Collaborative Editing](concurrency-in-collaborative-editing.md)
+<!-- COURSE_NAV_END -->

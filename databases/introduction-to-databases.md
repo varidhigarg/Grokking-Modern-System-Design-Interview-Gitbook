@@ -2,6 +2,10 @@
 description: Understand what a database is and its use cases in the system design.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Databases](../databases.md) | [Course Index](../README.md) | [Next: Types of Databases](types-of-databases/README.md)
+<!-- COURSE_NAV_END -->
+
 # Introduction to Databases
 
 ### Problem statement <a href="#problem-statement" id="problem-statement"></a>
@@ -62,3 +66,7 @@ We have divided the database chapter into four lessons:
 4. [**Cost-benefit analysis**](https://www.educative.io/collection/page/10370001/4941429335392256/5531655174881280): We’ll discuss which database sharding approach is best for different kinds of databases.
 
 Let’s get started by understanding different types of databases and their preferred use cases.
+
+<!-- COURSE_NAV_START -->
+[Previous: Databases](../databases.md) | [Course Index](../README.md) | [Next: Types of Databases](types-of-databases/README.md)
+<!-- COURSE_NAV_END -->

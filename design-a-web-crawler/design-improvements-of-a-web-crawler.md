@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Web Crawler](design-of-a-web-crawler.md) | [Course Index](../README.md) | [Next: Evaluation of Web Crawler's Design](evaluation-of-web-crawlers-design.md)
+<!-- COURSE_NAV_END -->
+
 # Design Improvements of a Web Crawler
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -87,3 +91,7 @@ Crawling is a resource and time-consuming task, and it’s of extreme importance
 3. Since each domain has a limited incoming and outgoing bandwidth allocation, the crawler needs to be polite enough to limit its crawling at a specific domain. Instead of having a static crawl speed for every domain, a better approach is to adjust the crawl speed based on a domain’s **Time to First Byte** (**TTFB**) value. The higher the TTFB value, the slower the server. And so, crawling that domain too fast might lead to more time-out requests and incomplete crawling.
 
 These modifications in the design will ensure a crawler capable of avoiding crawler traps and hence optimizing resources’ usage.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Web Crawler](design-of-a-web-crawler.md) | [Course Index](../README.md) | [Next: Evaluation of Web Crawler's Design](evaluation-of-web-crawlers-design.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Instagram](system-design-instagram.md) | [Course Index](../README.md) | [Next: Design of Instagram](design-of-instagram.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of Instagram’s Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -110,3 +114,7 @@ In the next lesson, we’ll focus on the high-level design of Instagram. The des
 * [**CDN**](../content-delivery-network-cdn/system-design-the-content-delivery-network-cdn.md) is used to effectively deliver content to end users which reduces delay and burden on end-servers.
 
 In the next lesson, we’ll discuss the high-level design of the Instagram system.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Instagram](system-design-instagram.md) | [Course Index](../README.md) | [Next: Design of Instagram](design-of-instagram.md)
+<!-- COURSE_NAV_END -->

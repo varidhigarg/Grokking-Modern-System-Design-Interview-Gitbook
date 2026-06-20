@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Distributed Messaging Queue’s Design](requirements-of-a-distributed-messaging-queues-design.md) | [Course Index](../README.md) | [Next: Design of a Distributed Messaging Queue: Part 1](design-of-a-distributed-messaging-queue-part-1.md)
+<!-- COURSE_NAV_END -->
+
 # Considerations of a Distributed Messaging Queue’s Design
 
 Before embarking on our journey to design a distributed messaging queue, let’s discuss some major factors that could significantly affect the design. These include the order of messages, the effect of the ordering on performance, and the management of concurrent access to the queue. We discuss each of these factors in detail below.
@@ -98,3 +102,7 @@ In this lesson, we discussed some key considerations and challenges in the desig
 * How does ordering affect performance? How do we handle concurrency while accessing a queue?
 
 Now, we are ready to start designing a distributed messaging queue.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Distributed Messaging Queue’s Design](requirements-of-a-distributed-messaging-queues-design.md) | [Course Index](../README.md) | [Next: Design of a Distributed Messaging Queue: Part 1](design-of-a-distributed-messaging-queue-part-1.md)
+<!-- COURSE_NAV_END -->

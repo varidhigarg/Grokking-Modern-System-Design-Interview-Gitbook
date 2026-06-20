@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: High-level Design of a Distributed Cache](high-level-design-of-a-distributed-cache.md) | [Course Index](../README.md) | [Next: Evaluation of a Distributed Cache's Design](evaluation-of-a-distributed-caches-design.md)
+<!-- COURSE_NAV_END -->
+
 # Detailed Design of a Distributed Cache
 
 This lesson will identify some shortcomings of the high-level design of a distributed cache and improve the design to cover the gaps. Let’s get started.
@@ -64,3 +68,7 @@ Let’s summarize the proposed detailed design in a few points:
 * Monitoring services can be additionally used to log and report different metrics of the caching service.
 
 > **Note:** An important aspect of the design is that cache entries are stored and retrieved from RAM. We discussed the suitability of RAM for designing a caching system in the previous lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: High-level Design of a Distributed Cache](high-level-design-of-a-distributed-cache.md) | [Course Index](../README.md) | [Next: Evaluation of a Distributed Cache's Design](evaluation-of-a-distributed-caches-design.md)
+<!-- COURSE_NAV_END -->

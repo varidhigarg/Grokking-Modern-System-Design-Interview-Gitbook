@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: NoSQL Databases - Introduction](nosql-databases-introduction.md) | [Course Index](../README.md) | [Next: When to pick a NoSQL Database?](when-to-pick-a-nosql-database.md)
+<!-- COURSE_NAV_END -->
+
 # Features of NoSQL Databases
 
 In the previous lesson, we learned that the NoSQL databases are built to run on clusters in a distributed environment, powering Web 2.0 websites. Now, let’s go over some of the upsides and downsides of using a NoSQL database.
@@ -45,3 +49,7 @@ Things are comparatively simple because there is no stress of managing joins, re
 Some of the popular NoSQL databases used in the industry are _MongoDB, Redis, Neo4J, Cassandra, Memcache,_ etc.
 
 So, by now, we have a pretty good idea of what NoSQL databases are. In the next lesson, let’s look at some of the use cases that best fit them.
+
+<!-- COURSE_NAV_START -->
+[Previous: NoSQL Databases - Introduction](nosql-databases-introduction.md) | [Course Index](../README.md) | [Next: When to pick a NoSQL Database?](when-to-pick-a-nosql-database.md)
+<!-- COURSE_NAV_END -->

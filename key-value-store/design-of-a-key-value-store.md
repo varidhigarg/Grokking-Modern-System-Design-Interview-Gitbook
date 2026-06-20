@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Key-value Store](README.md) | [Course Index](../README.md) | [Next: Versioning Data and Achieving Configurability](versioning-data-and-achieving-configurability.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Key-value Store
 
 ### Requirements[#](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/m2Qkvz6nqYA#Requirements) <a href="#requirements" id="requirements"></a>
@@ -97,3 +101,7 @@ The key is often a primary key in a key-value store, while the value can be any 
 In the next lesson, we’ll learn how to design our key-value store. First, we’ll focus on adding scalability, replication, and versioning of our data to our system. Then, we’ll ensure the functional requirements and make our system fault tolerant. We’ll fulfill a few of our non-functional requirements first because implementing our functional requirements depends on the method chosen for scalability.
 
 > **Note:** This chapter is based on Dynamo, which is an influential work in the domain of key-value stores.
+
+<!-- COURSE_NAV_START -->
+[Previous: Key-value Store](README.md) | [Course Index](../README.md) | [Next: Versioning Data and Achieving Configurability](versioning-data-and-achieving-configurability.md)
+<!-- COURSE_NAV_END -->

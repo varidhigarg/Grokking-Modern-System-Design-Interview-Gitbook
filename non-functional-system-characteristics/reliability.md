@@ -2,6 +2,10 @@
 description: Learn about reliability, how to measure it, and its importance.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Availability](availability.md) | [Course Index](../README.md) | [Next: Scalability](scalability.md)
+<!-- COURSE_NAV_END -->
+
 # Reliability
 
 ### What is reliability? <a href="#what-is-reliability" id="what-is-reliability"></a>
@@ -28,3 +32,7 @@ Reliability (`R`) and availability (`A`) are two distinct concepts, but they are
 * high `A`, high `R` (desirable)
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-20 at 4.42.33 AM.png" alt=""><figcaption></figcaption></figure>
+
+<!-- COURSE_NAV_START -->
+[Previous: Availability](availability.md) | [Course Index](../README.md) | [Next: Scalability](scalability.md)
+<!-- COURSE_NAV_END -->

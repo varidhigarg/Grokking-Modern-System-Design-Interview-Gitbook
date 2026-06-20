@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of a Distributed Cache](detailed-design-of-a-distributed-cache.md) | [Course Index](../README.md) | [Next: Memcached versus Redis](memcached-versus-redis.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of a Distributed Cache's Design
 
 Let’s evaluate our proposed design according to the design requirements.
@@ -65,3 +69,7 @@ Show Answer
 ### Summary <a href="#summary-0" id="summary-0"></a>
 
 We studied the basics of the cache and designed a distributed cache that has a good level of availability, high performance, high scalability, and low cost. Our mechanism maintains high availability using replicas, though if all replicas are in one data center, such a scheme won’t tackle full data center failures. Now that we’ve learned about the basics of design, let’s explore popular open-source frameworks like Memcached and Redis.
+
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of a Distributed Cache](detailed-design-of-a-distributed-cache.md) | [Course Index](../README.md) | [Next: Memcached versus Redis](memcached-versus-redis.md)
+<!-- COURSE_NAV_END -->

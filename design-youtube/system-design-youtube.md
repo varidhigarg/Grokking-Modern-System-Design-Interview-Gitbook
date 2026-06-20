@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design YouTube](../design-youtube.md) | [Course Index](../README.md) | [Next: Requirements of YouTube's Design](requirements-of-youtubes-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: YouTube
 
 ### What is YouTube? <a href="#what-is-youtube-0" id="what-is-youtube-0"></a>
@@ -40,3 +44,7 @@ We’ve divided the design of YouTube into five lessons:
 5.  [**Quiz**:](quiz-on-youtubes-design.md) We reinforce major concepts we learned designing YouTube by considering how we could design Netflix’s system.
 
     Our discussion on the usage of various building blocks in the design will be limited since we’ve already explored them in detail in the [building blocks](https://www.educative.io/collection/page/10370001/4941429335392256/6061247618875392) chapter.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design YouTube](../design-youtube.md) | [Course Index](../README.md) | [Next: Requirements of YouTube's Design](requirements-of-youtubes-design.md)
+<!-- COURSE_NAV_END -->

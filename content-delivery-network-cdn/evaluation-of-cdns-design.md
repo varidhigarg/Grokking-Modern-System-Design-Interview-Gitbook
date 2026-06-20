@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: In-depth Investigation of CDN: Part 2](in-depth-investigation-of-cdn-part-2.md) | [Course Index](../README.md) | [Next: Sequencer](../sequencer/README.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of CDN's Design
 
 ### Evaluation <a href="#evaluation" id="evaluation"></a>
@@ -37,3 +41,7 @@ A CDN ensures no single failure point by carefully implementing maintenance cycl
 ### Conclusion <a href="#conclusion" id="conclusion"></a>
 
 Since its inception in the 1990s, the CDN has played a vital role in providing high availability and low-latency content delivery. Nowadays, CDNs are considered a key player in improving the overall performance of giant services.
+
+<!-- COURSE_NAV_START -->
+[Previous: In-depth Investigation of CDN: Part 2](in-depth-investigation-of-cdn-part-2.md) | [Course Index](../README.md) | [Next: Sequencer](../sequencer/README.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Monitor Server-side Errors](README.md) | [Course Index](../README.md) | [Next: Detailed Design of a Monitoring System](detailed-design-of-a-monitoring-system.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Monitoring System
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -40,3 +44,7 @@ The high-level components of our monitoring service are the following:
 <figure><img src="../.gitbook/assets/Screenshot 2023-09-03 at 12.00.16 AM.png" alt=""><figcaption></figcaption></figure>
 
 Let’s dive deep into the components mentioned above in the next lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: Monitor Server-side Errors](README.md) | [Course Index](../README.md) | [Next: Detailed Design of a Monitoring System](detailed-design-of-a-monitoring-system.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design and Deployment of TinyURL](design-and-deployment-of-tinyurl.md) | [Course Index](../README.md) | [Next: Evaluation of TinyURL's Design](evaluation-of-tinyurls-design.md)
+<!-- COURSE_NAV_END -->
+
 # Encoder for TinyURL
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -144,3 +148,7 @@ So, taking the above two factors into consideration, we can calculate the expect
 | Lifetime of sequencer        | f7686143363.63 | years   |
 
 > Therefore, our service can run for a long time before the range depletes.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design and Deployment of TinyURL](design-and-deployment-of-tinyurl.md) | [Course Index](../README.md) | [Next: Evaluation of TinyURL's Design](evaluation-of-tinyurls-design.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: High-level Design of Uber](high-level-design-of-uber.md) | [Course Index](../README.md) | [Next: Payment Service and Fraud Detection in Uber Design](payment-service-and-fraud-detection-in-uber-design.md)
+<!-- COURSE_NAV_END -->
+
 # Detailed Design of Uber
 
 Let’s look at the detailed design of our Uber system and learn how the various components work together to offer a functioning service:
@@ -127,3 +131,7 @@ We use load balancers between clients (drivers and riders) and the application s
 A million drivers need to send the updated location every four seconds. A million requests to the QuadTree service affects how well it works. For this, we first store the updated location in the hash table stored in Redis. Eventually, these values are copied into the persistent storage every 10–15 seconds.
 
 We’ve discussed the detailed design of Uber and how different components work together to fulfill the requirements. In the next lesson, we’ll learn how the payment service works to move the money from riders to drivers and detect frauds.
+
+<!-- COURSE_NAV_START -->
+[Previous: High-level Design of Uber](high-level-design-of-uber.md) | [Course Index](../README.md) | [Next: Payment Service and Fraud Detection in Uber Design](payment-service-and-fraud-detection-in-uber-design.md)
+<!-- COURSE_NAV_END -->

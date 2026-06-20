@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Concurrency in Collaborative Editing](concurrency-in-collaborative-editing.md) | [Course Index](../README.md) | [Next: Spectacular Failures](../spectacular-failures.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of Google Docs’ Design
 
 We’ve now explained the design and how it fulfills the functional requirements for a collaborative document editing service. This lesson will focus on how our design meets the non-functional requirements. In particular, we’ll focus on consistency, latency, scalability, and availability.
@@ -48,3 +52,7 @@ Since we've used microservice architecture, we can easily scale each component i
 ### Conclusion <a href="#conclusion-1" id="conclusion-1"></a>
 
 In this chapter, we designed an online collaborative document editing service. In our design, we provided features like collaborative editing, keeping version history for reverting to older versions, giving users suggestions on frequently used terms and phrases, and view counts of a document. We also assessed the possibility of adding a chatting feature between users collaborating on the same document. A unique aspect of the design was the conflict resolution between concurrent editing operations by different users. We solved the concurrency issues through OT and CRDT.
+
+<!-- COURSE_NAV_START -->
+[Previous: Concurrency in Collaborative Editing](concurrency-in-collaborative-editing.md) | [Course Index](../README.md) | [Next: Spectacular Failures](../spectacular-failures.md)
+<!-- COURSE_NAV_END -->

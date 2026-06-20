@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Client-side Load Balancer for Twitter](client-side-load-balancer-for-twitter.md) | [Course Index](../README.md) | [Next: Design Newsfeed System](../design-newsfeed-system.md)
+<!-- COURSE_NAV_END -->
+
 # Quiz on Twitter's Design
 
 ![](<../.gitbook/assets/Screenshot 2023-09-02 at 7.12.50 PM.png>)
@@ -17,3 +21,7 @@
 ![](<../.gitbook/assets/Screenshot 2023-09-02 at 7.21.41 PM.png>)
 
 ![](<../.gitbook/assets/Screenshot 2023-09-02 at 7.21.54 PM.png>)
+
+<!-- COURSE_NAV_START -->
+[Previous: Client-side Load Balancer for Twitter](client-side-load-balancer-for-twitter.md) | [Course Index](../README.md) | [Next: Design Newsfeed System](../design-newsfeed-system.md)
+<!-- COURSE_NAV_END -->

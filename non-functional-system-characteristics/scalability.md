@@ -2,6 +2,10 @@
 description: Learn about scalability and its importance in system design.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Reliability](reliability.md) | [Course Index](../README.md) | [Next: Maintainability](maintainability.md)
+<!-- COURSE_NAV_END -->
+
 # Scalability
 
 #### What is scalability? <a href="#what-is-scalability" id="what-is-scalability"></a>
@@ -32,3 +36,7 @@ Here are the different ways to implement scalability.
 #### Horizontal scalability—scaling out <a href="#horizontal-scalability-scaling-out" id="horizontal-scalability-scaling-out"></a>
 
 **Horizontal scaling**, also known as “**scaling out**,” refers to increasing the number of machines in the network. We use commodity nodes for this purpose because of their attractive dollar-cost benefits. The catch here is that we need to build a system such that many nodes could collectively work as if we had a single, huge server.
+
+<!-- COURSE_NAV_START -->
+[Previous: Reliability](reliability.md) | [Course Index](../README.md) | [Next: Maintainability](maintainability.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design a Web Crawler](../design-a-web-crawler.md) | [Course Index](../README.md) | [Next: Requirements of a Web Crawler's Design](requirements-of-a-web-crawlers-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: Web Crawler
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -31,3 +35,7 @@ This chapter consists of four lessons that encompass the overall design of the w
 4. [**Evaluation**:](evaluation-of-web-crawlers-design.md) This lesson provides an in-depth evaluation of our design choices to check if they meet all the standards and requirements we expect from our design.
 
 Let’s begin with defining the requirements of a web crawler.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design a Web Crawler](../design-a-web-crawler.md) | [Course Index](../README.md) | [Next: Requirements of a Web Crawler's Design](requirements-of-a-web-crawlers-design.md)
+<!-- COURSE_NAV_END -->

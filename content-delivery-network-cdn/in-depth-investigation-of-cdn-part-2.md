@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: In-depth Investigation of CDN: Part 1](in-depth-investigation-of-cdn-part-1.md) | [Course Index](../README.md) | [Next: Evaluation of CDN's Design](evaluation-of-cdns-design.md)
+<!-- COURSE_NAV_END -->
+
 # In-depth Investigation of CDN: Part 2
 
 In this lesson, we learn how content consistency can be achieved using different consistency mechanisms. We also learn about where we should deploy the proxy servers and the difference between CDN as a service and specialized CDN.
@@ -91,3 +95,7 @@ As Netflix became more popular, it decided to build and manage its own CDN for t
 > **Note**: Netflix is able to achieve a hit ratio close to 95% using OCA.
 
 We’ll evaluate our proposed design in the next lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: In-depth Investigation of CDN: Part 1](in-depth-investigation-of-cdn-part-1.md) | [Course Index](../README.md) | [Next: Evaluation of CDN's Design](evaluation-of-cdns-design.md)
+<!-- COURSE_NAV_END -->

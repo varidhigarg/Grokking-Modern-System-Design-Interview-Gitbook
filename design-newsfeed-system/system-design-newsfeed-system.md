@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design Newsfeed System](../design-newsfeed-system.md) | [Course Index](../README.md) | [Next: Requirements of a Newsfeed System’s Design](requirements-of-a-newsfeed-systems-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: Newsfeed System
 
 ### What is a newsfeed? <a href="#what-is-a-newsfeed-0" id="what-is-a-newsfeed-0"></a>
@@ -19,3 +23,7 @@ We have divided the design of the newsfeed system into the following three lesso
 3. [**Evaluation:**](evaluation-of-a-newsfeed-systems-design.md) In this lesson, we’ll evaluate the design of the newsfeed system based on the non-functional requirements. We’ll also take a quiz to assess our understanding of the design of the newsfeed system.
 
 Let’s list down the requirements for designing our version of the newsfeed system.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design Newsfeed System](../design-newsfeed-system.md) | [Course Index](../README.md) | [Next: Requirements of a Newsfeed System’s Design](requirements-of-a-newsfeed-systems-design.md)
+<!-- COURSE_NAV_END -->

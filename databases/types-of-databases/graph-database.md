@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Document-Oriented Database](document-oriented-database.md) | [Course Index](../../README.md) | [Next: Key-Value Database](key-value-database.md)
+<!-- COURSE_NAV_END -->
+
 # Graph Database
 
 ### What is a graph database? <a href="#what-is-a-graph-database" id="what-is-a-graph-database"></a>
@@ -74,3 +78,7 @@ Here are some of the real-world implementations of the tech:
 * [Food discovery at Uber Eats](https://www.uber.com/en-IN/blog/uber-eats-graph-learning/) with graph learning.
 * [Walmart shows product recommendations](https://neo4j.com/blog/walmart-neo4j-competitive-advantage/) to its customers in real-time using the Neo4J graph database.
 * [NASA uses Neo4J to store “lessons learned” data from their previous missions](https://neo4j.com/blog/david-meza-chief-knowledge-architect-nasa/) to educate the scientists and engineers.
+
+<!-- COURSE_NAV_START -->
+[Previous: Document-Oriented Database](document-oriented-database.md) | [Course Index](../../README.md) | [Next: Key-Value Database](key-value-database.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Quora's Design](requirements-of-quoras-design.md) | [Course Index](../README.md) | [Next: Final Design of Quora](final-design-of-quora.md)
+<!-- COURSE_NAV_END -->
+
 # Initial Design of Quora
 
 ### Initial design <a href="#initial-design-0" id="initial-design-0"></a>
@@ -162,3 +166,7 @@ Point to Ponder
 Why is there a custom routing layer between the web and application servers instead of a load-balancing layer?
 
 Show Answer
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Quora's Design](requirements-of-quoras-design.md) | [Course Index](../README.md) | [Next: Final Design of Quora](final-design-of-quora.md)
+<!-- COURSE_NAV_END -->

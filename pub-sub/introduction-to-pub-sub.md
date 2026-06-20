@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Pub-sub Abstraction](system-design-the-pub-sub-abstraction.md) | [Course Index](../README.md) | [Next: Design of a Pub-sub System](design-of-a-pub-sub-system.md)
+<!-- COURSE_NAV_END -->
+
 # Introduction to Pub-sub
 
 Pub-sub messaging offers asynchronous communication. Let’s explore the use cases where it is beneficial to have a pub-sub system.
@@ -154,3 +158,7 @@ The building blocks we’ll use
 * [**Key-value**](../key-value-store/system-design-the-key-value-store.md): We’ll use a key-value store to hold information about consumers.
 
 In the next lesson, we’ll focus on designing a pub-sub system.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Pub-sub Abstraction](system-design-the-pub-sub-abstraction.md) | [Course Index](../README.md) | [Next: Design of a Pub-sub System](design-of-a-pub-sub-system.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Features of NoSQL Databases](features-of-nosql-databases.md) | [Course Index](../README.md) | [Next: Is NoSQL More Performant Than SQL?](is-nosql-more-performant-than-sql.md)
+<!-- COURSE_NAV_END -->
+
 # When to pick a NoSQL Database?
 
 ### Handling a large number of read-write operations <a href="#handling-a-large-number-of-read-write-operations" id="handling-a-large-number-of-read-write-operations"></a>
@@ -35,3 +39,7 @@ NoSQL databases also fit best for data analytics use cases, where we have to dea
 There are dedicated databases for use cases like this, such as _time-series databases, wide-column, document-oriented databases,_ etc. I’ll talk about each of them later in this chapter.
 
 In the next lesson, let’s look into the performance comparison of SQL and NoSQL technology.
+
+<!-- COURSE_NAV_START -->
+[Previous: Features of NoSQL Databases](features-of-nosql-databases.md) | [Course Index](../README.md) | [Next: Is NoSQL More Performant Than SQL?](is-nosql-more-performant-than-sql.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Final Design of Quora](final-design-of-quora.md) | [Course Index](../README.md) | [Next: Design Google Maps](../design-google-maps.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of Quora’s Design
 
 ### Fulfilling requirements <a href="#fulfilling-requirements-0" id="fulfilling-requirements-0"></a>
@@ -74,3 +78,7 @@ Point to Ponder
 How can using different data stores for different types of data be beneficial in disaster recovery?
 
 Show Answer
+
+<!-- COURSE_NAV_START -->
+[Previous: Final Design of Quora](final-design-of-quora.md) | [Course Index](../README.md) | [Next: Design Google Maps](../design-google-maps.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: YouTube](system-design-youtube.md) | [Course Index](../README.md) | [Next: Design of YouTube](design-of-youtube.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of YouTube's Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -125,3 +129,7 @@ Other than our building blocks, we anticipate the use of the following component
 
 * Servers are a basic requirement to run application logic and entertain user requests.
 * **Encoders** and transcoders compress videos and transform them into different formats and qualities to support varying numbers of devices according to their screen resolution and bandwidth.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: YouTube](system-design-youtube.md) | [Course Index](../README.md) | [Next: Design of YouTube](design-of-youtube.md)
+<!-- COURSE_NAV_END -->

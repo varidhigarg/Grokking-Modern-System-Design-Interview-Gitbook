@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Sharded Counters](system-design-the-sharded-counters.md) | [Course Index](../README.md) | [Next: Detailed Design of Sharded Counters](detailed-design-of-sharded-counters.md)
+<!-- COURSE_NAV_END -->
+
 # High-level Design of Sharded Counters
 
 ### High-level solution sketch <a href="#high-level-solution-sketch-0" id="high-level-solution-sketch-0"></a>
@@ -84,3 +88,7 @@ readCounter(counter_id)
 The `\readCounter` API is called when users want to see the number of likes or view counts on a specific tweet. Usually, this API is triggered by another API when users want to see their home or user timeline.
 
 The following section will discuss what happens in the back-end system when all the above APIs are called.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Sharded Counters](system-design-the-sharded-counters.md) | [Course Index](../README.md) | [Next: Detailed Design of Sharded Counters](detailed-design-of-sharded-counters.md)
+<!-- COURSE_NAV_END -->

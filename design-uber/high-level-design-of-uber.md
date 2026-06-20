@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Uber’s Design](requirements-of-ubers-design.md) | [Course Index](../README.md) | [Next: Detailed Design of Uber](detailed-design-of-uber.md)
+<!-- COURSE_NAV_END -->
+
 # High-level Design of Uber
 
 ### Workflow of our application <a href="#workflow-of-our-application-0" id="workflow-of-our-application-0"></a>
@@ -120,3 +124,7 @@ endTrip(tripID, riderID, driverID ,time_elapsed, lat, long)
 ```
 
 The `endTrip` API is used to end the trip.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Uber’s Design](requirements-of-ubers-design.md) | [Course Index](../README.md) | [Next: Detailed Design of Uber](detailed-design-of-uber.md)
+<!-- COURSE_NAV_END -->

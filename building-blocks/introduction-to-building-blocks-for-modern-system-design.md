@@ -4,6 +4,10 @@ description: >-
   fascinating artifacts.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Building Blocks](../building-blocks.md) | [Course Index](../README.md) | [Next: Domain Name System](../domain-name-system.md)
+<!-- COURSE_NAV_END -->
+
 # Introduction to Building Blocks for Modern System Design
 
 ### The bottom-up approach for modern system design <a href="#the-bottom-up-approach-for-modern-system-design" id="the-bottom-up-approach-for-modern-system-design"></a>
@@ -45,3 +49,7 @@ For elaboration, we’ll use a _“Requirements”_ section whenever we design a
 2. **Non-functional requirements (NFRs):** The non-functional requirements are criteria based on which the user of a system will consider the system usable. NFR may include requirements like high availability, low latency, scalability, and so on.
 
 Let’s start with our building blocks.
+
+<!-- COURSE_NAV_START -->
+[Previous: Building Blocks](../building-blocks.md) | [Course Index](../README.md) | [Next: Domain Name System](../domain-name-system.md)
+<!-- COURSE_NAV_END -->

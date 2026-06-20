@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Distributed Task Scheduler's Design](requirements-of-a-distributed-task-schedulers-design.md) | [Course Index](../README.md) | [Next: Design Considerations of a Distributed Task Scheduler](design-considerations-of-a-distributed-task-scheduler.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Distributed Task Scheduler
 
 Let’s identify the components used in this design:
@@ -85,3 +89,7 @@ As we have seen above, every component we use in the design of the distributed t
 There is a cluster manager to which each node sends a heartbeat that indicates the node is working correctly. Each node updates the cluster manager about the admitted tasks. The cluster manager maintains a list of tasks and the node ID that admitted that task. In case a node fails to execute a task, the cluster manager hands over that task to another node in the cluster. The cluster manager is itself replicated.
 
 Above, we designed a task scheduling system. We’ll discuss the design considerations of our task scheduler in the next lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Distributed Task Scheduler's Design](requirements-of-a-distributed-task-schedulers-design.md) | [Course Index](../README.md) | [Next: Design Considerations of a Distributed Task Scheduler](design-considerations-of-a-distributed-task-scheduler.md)
+<!-- COURSE_NAV_END -->

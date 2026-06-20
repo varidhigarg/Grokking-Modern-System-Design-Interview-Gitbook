@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Spectacular Failures](../spectacular-failures.md) | [Course Index](../README.md) | [Next: Facebook, WhatsApp, Instagram, Oculus Outage](facebook-whatsapp-instagram-oculus-outage.md)
+<!-- COURSE_NAV_END -->
+
 # Introduction to Distributed System Failures
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -41,3 +45,7 @@ With the emergence of a handful of service providers over the last decade, criti
 <figure><img src="../.gitbook/assets/Screenshot 2023-09-06 at 2.42.47 AM.png" alt=""><figcaption></figcaption></figure>
 
 In the following lessons, we’ll discuss the failures of well-known services by giant companies, the causes of failures, and what mitigation techniques can be used to avoid these failures. Although failures are a great way to learn what went wrong and what the original designers could do to avoid such failures, we’d like to prevent them from occurring at all.
+
+<!-- COURSE_NAV_START -->
+[Previous: Spectacular Failures](../spectacular-failures.md) | [Course Index](../README.md) | [Next: Facebook, WhatsApp, Instagram, Oculus Outage](facebook-whatsapp-instagram-oculus-outage.md)
+<!-- COURSE_NAV_END -->

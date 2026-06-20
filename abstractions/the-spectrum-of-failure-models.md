@@ -4,6 +4,10 @@ description: >-
   them.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Spectrum of Consistency Models](spectrum-of-consistency-models.md) | [Course Index](../README.md) | [Next: Non-functional System Characteristics](../non-functional-system-characteristics/README.md)
+<!-- COURSE_NAV_END -->
+
 # The Spectrum of Failure Models
 
 Failures are obvious in the world of distributed systems and can appear in various ways. They might come and go, or persist for a long period.
@@ -35,3 +39,7 @@ In **temporal failures**, the node generates correct results, but is too late to
 ### Byzantine failures <a href="#byzantine-failures" id="byzantine-failures"></a>
 
 In **Byzantine failures**, the node exhibits random behavior like transmitting arbitrary messages at arbitrary times, producing wrong results, or stopping midway. This mostly happens due to an attack by a malicious entity or a software bug. A byzantine failure is the most challenging type of failure to deal with.
+
+<!-- COURSE_NAV_START -->
+[Previous: Spectrum of Consistency Models](spectrum-of-consistency-models.md) | [Course Index](../README.md) | [Next: Non-functional System Characteristics](../non-functional-system-characteristics/README.md)
+<!-- COURSE_NAV_END -->

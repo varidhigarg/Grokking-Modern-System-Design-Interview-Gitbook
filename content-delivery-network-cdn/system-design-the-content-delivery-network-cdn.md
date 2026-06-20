@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Content Delivery Network (CDN)](README.md) | [Course Index](../README.md) | [Next: Introduction to a CDN](introduction-to-a-cdn.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: The Content Delivery Network (CDN)
 
 ### Problem statement <a href="#problem-statement" id="problem-statement"></a>
@@ -34,3 +38,7 @@ We’ve divided the design of CDN into six lessons:
 6. [**Quiz on CDN System Design**](https://www.educative.io/collection/page/10370001/4941429335392256/6624605451583488): We’ll reinforce major concepts of CDN design with a quiz.
 
 Let’s think about the solution to the discussed issues in the next lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: Content Delivery Network (CDN)](README.md) | [Course Index](../README.md) | [Next: Introduction to a CDN](introduction-to-a-cdn.md)
+<!-- COURSE_NAV_END -->

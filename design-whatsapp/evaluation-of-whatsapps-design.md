@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of WhatsApp](detailed-design-of-whatsapp.md) | [Course Index](../README.md) | [Next: Quiz on WhatsApp’s Design](quiz-on-whatsapps-design.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of WhatsApp’s Design
 
 ### Fulfill the requirements <a href="#fulfill-the-requirements-0" id="fulfill-the-requirements-0"></a>
@@ -55,3 +59,7 @@ We might wonder where the trade-off is. Often, communication involves multimedia
 In this chapter, we designed a WhatsApp messenger. First, we identified the functional and non-functional requirements along with the resources estimation crucial for the design. Second, we focused on the high-level and detailed design of the WhatsApp system, where we described various components responsible for different services. Finally, we evaluated the non-functional requirements and highlighted some trade-offs in the design.
 
 This design problem highlighted that we can optimize general-purpose computational resources for specific use cases. WhatsApp optimized its software stack to handle a substantially large number of connections on the commodity servers.
+
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of WhatsApp](detailed-design-of-whatsapp.md) | [Course Index](../README.md) | [Next: Quiz on WhatsApp’s Design](quiz-on-whatsapps-design.md)
+<!-- COURSE_NAV_END -->

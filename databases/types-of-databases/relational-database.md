@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Types of Databases](README.md) | [Course Index](../../README.md) | [Next: Document-Oriented Database](document-oriented-database.md)
+<!-- COURSE_NAV_END -->
+
 # Relational Database
 
 ### What is a relational database? <a href="#what-is-a-relational-database" id="what-is-a-relational-database"></a>
@@ -39,3 +43,7 @@ An _ACID_ transaction happens with an initial state of the system, _State A_, an
 A relational database ensures that the system is either in _State A_ or _State B_ at all times. There is no middle state. If anything fails, the system always rolls back to _State A_.
 
 In the next lesson, let’s understand when to pick a relational database.
+
+<!-- COURSE_NAV_START -->
+[Previous: Types of Databases](README.md) | [Course Index](../../README.md) | [Next: Document-Oriented Database](document-oriented-database.md)
+<!-- COURSE_NAV_END -->

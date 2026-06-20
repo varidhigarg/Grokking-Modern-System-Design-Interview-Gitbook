@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of the Typeahead Suggestion System’s Design](requirements-of-the-typeahead-suggestion-systems-design.md) | [Course Index](../README.md) | [Next: Data Structure for Storing Prefixes](data-structure-for-storing-prefixes.md)
+<!-- COURSE_NAV_END -->
+
 # High-level Design of the Typeahead Suggestion System
 
 ### High-level design <a href="#high-level-design-0" id="high-level-design-0"></a>
@@ -56,3 +60,7 @@ We should update the query asynchronously using **AJAX**. **AJAX** is a set of w
 \-------------
 
 In the next lesson, we’ll learn about an efficient data structure that’s used to store the suggestions or prefixes.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of the Typeahead Suggestion System’s Design](requirements-of-the-typeahead-suggestion-systems-design.md) | [Course Index](../README.md) | [Next: Data Structure for Storing Prefixes](data-structure-for-storing-prefixes.md)
+<!-- COURSE_NAV_END -->

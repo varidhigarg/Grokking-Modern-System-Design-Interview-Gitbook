@@ -2,6 +2,10 @@
 description: Learn about data partitioning models along with their pros and cons.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: What is quorum in distributed systems?](data-replication/what-is-quorum-in-distributed-systems.md) | [Course Index](../README.md) | [Next: Trade-offs in Databases](trade-offs-in-databases.md)
+<!-- COURSE_NAV_END -->
+
 # Data Partitioning
 
 ### Why do we partition data? <a href="#why-do-we-partition-data" id="why-do-we-partition-data"></a>
@@ -201,3 +205,7 @@ To track changes in the cluster, many distributed data systems need a separate m
 ### Conclusion <a href="#conclusion" id="conclusion"></a>
 
 For all current distributed systems, partitioning has become the standard protocol. Because systems contain increasing amounts of data, partitioning the data makes sense since it speeds up both writes and reads. It increases the system’s availability, scalability, and performance.
+
+<!-- COURSE_NAV_START -->
+[Previous: What is quorum in distributed systems?](data-replication/what-is-quorum-in-distributed-systems.md) | [Course Index](../README.md) | [Next: Trade-offs in Databases](trade-offs-in-databases.md)
+<!-- COURSE_NAV_END -->

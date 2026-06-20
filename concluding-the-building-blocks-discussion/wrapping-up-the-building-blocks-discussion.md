@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Concluding the Building Blocks Discussion](../concluding-the-building-blocks-discussion.md) | [Course Index](../README.md) | [Next: The RESHADED Approach for System Design](the-reshaded-approach-for-system-design.md)
+<!-- COURSE_NAV_END -->
+
 # Wrapping Up the Building Blocks Discussion
 
 We have covered a good number of building blocks that will enable us to solve bigger design problems. In the coming chapters, we’ll solve a variety of problems that will use various building blocks.
@@ -25,3 +29,7 @@ We’ll learn and explore thirteen design problems in the next chapters. We’ll
 Each of these designs is an independent chapter, but we recommend that you go through these chapters in the assigned order. Some problems have background material that is helpful in other design problems. For example, working through the Google Maps problem first can be useful for readers interested in learning about the Uber design problem.
 
 At the end of the course, we’ll conclude our course with the “[Spectacular Failures](../spectacular-failures/introduction-to-distributed-system-failures.md)” chapter, where we’ll discuss how a minor bug or mistake led to a significant outage or failure of some of the most successful systems designed.
+
+<!-- COURSE_NAV_START -->
+[Previous: Concluding the Building Blocks Discussion](../concluding-the-building-blocks-discussion.md) | [Course Index](../README.md) | [Next: The RESHADED Approach for System Design](the-reshaded-approach-for-system-design.md)
+<!-- COURSE_NAV_END -->

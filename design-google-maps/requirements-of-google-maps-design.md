@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Google Maps](system-design-google-maps.md) | [Course Index](../README.md) | [Next: Design of Google Maps](design-of-google-maps.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of Google Maps' Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -119,3 +123,7 @@ Now that we’ve completed our estimates of resources required, let’s identify
 * [**A key-value store**](../key-value-store/system-design-the-key-value-store.md) is also used to store some metadata information.
 
 Besides the building blocks mentioned above, other components will also be required for designing our maps system. These components will be discussed in the design lessons. We are now ready to explore the system and API design of Google Maps.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Google Maps](system-design-google-maps.md) | [Course Index](../README.md) | [Next: Design of Google Maps](design-of-google-maps.md)
+<!-- COURSE_NAV_END -->

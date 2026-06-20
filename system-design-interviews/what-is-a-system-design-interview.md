@@ -4,6 +4,10 @@ description: >-
   them.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Course Index](../README.md) | [Course Index](../README.md) | [Next: How to Prepare for Success](how-to-prepare-for-success.md)
+<!-- COURSE_NAV_END -->
+
 # What Is a System Design Interview?
 
 Our system design course is equally useful for people already working and those preparing for interviews. In this chapter, we highlight the different aspects of a system design interview (SDI) and some helpful tips for those who are preparing for an upcoming interview. We encourage learners to read this chapter even if they aren’t preparing for an interview because some of the topics covered in this chapter can be applied broadly.
@@ -96,3 +100,7 @@ Distributed systems give us guideposts for mature software principles. These inc
 Such terminology also acts as a lingua franca between the interviewer and candidate.
 
 As an example, we might say that we need to make a trade-off between availability and consistency when network components fail because the CAP theorem indicates that we can’t have both under network partitions. Such common language helps with communication and shows that we’re well versed in both theory and practice.
+
+<!-- COURSE_NAV_START -->
+[Previous: Course Index](../README.md) | [Course Index](../README.md) | [Next: How to Prepare for Success](how-to-prepare-for-success.md)
+<!-- COURSE_NAV_END -->

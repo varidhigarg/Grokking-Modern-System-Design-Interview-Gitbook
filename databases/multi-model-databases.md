@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Polyglot Persistence](polyglot-persistence.md) | [Course Index](../README.md) | [Next: Eventual Consistency](eventual-consistency.md)
+<!-- COURSE_NAV_END -->
+
 # Multi-Model Databases
 
 ### What are multi-model databases?[#](https://www.educative.io/module/lesson/web-application-architecture-101/JQ159YZoQw2#What-are-multi-model-databases?) <a href="#what-are-multi-model-databases" id="what-are-multi-model-databases"></a>
@@ -15,3 +19,7 @@ Multi-model databases support multiple data models like the graph, document-orie
 Some of the popular multi-model databases are ArangoDB, CosmosDB, OrientDB, Couchbase, etc.
 
 In the upcoming lessons, we will cover the concepts like eventual consistency and strong consistency that are key to understanding distributed systems.
+
+<!-- COURSE_NAV_START -->
+[Previous: Polyglot Persistence](polyglot-persistence.md) | [Course Index](../README.md) | [Next: Eventual Consistency](eventual-consistency.md)
+<!-- COURSE_NAV_END -->

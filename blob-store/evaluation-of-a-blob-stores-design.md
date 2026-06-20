@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design Considerations of a Blob Store](design-considerations-of-a-blob-store.md) | [Course Index](../README.md) | [Next: Quiz on the Blob Store's Design](quiz-on-the-blob-stores-design.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of a Blob Store's Design
 
 Let’s evaluate how our design helps us achieve our requirements.
@@ -55,3 +59,7 @@ After responding to the write request and replicating data within the storage cl
 ### Conclusion <a href="#conclusion-3" id="conclusion-3"></a>
 
 We saw that a blob store is designed to store large-sized and unstructured data. A blob store helps applications store images, videos, audio, and so on. Nowadays, it’s used by many applications like YouTube, Facebook, Instagram, Twitter, and more. We designed a system where users can perform a blob store’s basic function. Lastly, we evaluated our design based on our non-functional requirements.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design Considerations of a Blob Store](design-considerations-of-a-blob-store.md) | [Course Index](../README.md) | [Next: Quiz on the Blob Store's Design](quiz-on-the-blob-stores-design.md)
+<!-- COURSE_NAV_END -->

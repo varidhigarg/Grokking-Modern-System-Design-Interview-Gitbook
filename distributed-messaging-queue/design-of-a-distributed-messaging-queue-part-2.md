@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Distributed Messaging Queue: Part 1](design-of-a-distributed-messaging-queue-part-1.md) | [Course Index](../README.md) | [Next: Evaluation of a Distributed Messaging Queue’s Design](evaluation-of-a-distributed-messaging-queues-design.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Distributed Messaging Queue: Part 2
 
 In the previous lesson, we discussed the responsibilities of front-end servers and metadata services. In this lesson, we’ll focus on the main part of the design where the queues and messages are stored: the back-end service.
@@ -71,3 +75,7 @@ Based on the needs of an application, we can pick one or the other.
 We have completed the design of a distributed messaging queue and discussed the two models for organizing the back-end server. We also described the management process of queues and how messages are processed at the back-end. Furthermore, we discussed how back-end servers are managed through different cluster managers.
 
 In the next lesson, we discuss how our system fulfills the functional and non-functional requirements that were described earlier in the chapter.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Distributed Messaging Queue: Part 1](design-of-a-distributed-messaging-queue-part-1.md) | [Course Index](../README.md) | [Next: Evaluation of a Distributed Messaging Queue’s Design](evaluation-of-a-distributed-messaging-queues-design.md)
+<!-- COURSE_NAV_END -->

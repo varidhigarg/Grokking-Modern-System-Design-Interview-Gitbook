@@ -2,6 +2,10 @@
 description: Understand load balancers and their usage within a system.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Global and Local Load Balancing](global-and-local-load-balancing.md) | [Course Index](../README.md) | [Next: Databases](../databases.md)
+<!-- COURSE_NAV_END -->
+
 # Advanced Details of Load Balancers
 
 This lesson will focus on some of the well-known algorithms used in the local load balancers. We’ll also understand how load balancers are connected to form a hierarchy, sharing work across different tiers of LBs.
@@ -132,3 +136,7 @@ With the advent of the field of cloud computing, Load Balancers as a Service (LB
 ### Conclusion <a href="#conclusion" id="conclusion"></a>
 
 LBs have come a long way to become a service offered in the cloud, starting since their inception in the form of hardware. They’re a key component of any enterprise-level service. Horizontal scalability of hosting servers will always require a good load balancing layer capable of providing load balancing, session maintenance, TLS offloading, service discovery, and more.
+
+<!-- COURSE_NAV_START -->
+[Previous: Global and Local Load Balancing](global-and-local-load-balancing.md) | [Course Index](../README.md) | [Next: Databases](../databases.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: High-level Design of Twitter](high-level-design-of-twitter.md) | [Course Index](../README.md) | [Next: Client-side Load Balancer for Twitter](client-side-load-balancer-for-twitter.md)
+<!-- COURSE_NAV_END -->
+
 # Detailed Design of Twitter
 
 ### Storage system <a href="#storage-system-0" id="storage-system-0"></a>
@@ -72,3 +76,7 @@ This section will discuss what happens in the back-end system when the end users
 * We can use the Zipkin tracing system that performs sampling on requests. Moreover, we can use ZooKeeper to maintain different data, including configuration information, distributed synchronization, naming registry, and so on.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-09-05 at 11.45.19 PM.png" alt=""><figcaption></figcaption></figure>
+
+<!-- COURSE_NAV_START -->
+[Previous: High-level Design of Twitter](high-level-design-of-twitter.md) | [Course Index](../README.md) | [Next: Client-side Load Balancer for Twitter](client-side-load-balancer-for-twitter.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of Google Maps](detailed-design-of-google-maps.md) | [Course Index](../README.md) | [Next: Design a Proximity Service / Yelp](../design-a-proximity-service-yelp.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of Google Maps' Design
 
 Let’s see how the system we designed will handle millions of queries per second, ensuring a fast response time.
@@ -60,3 +64,7 @@ Besides the road data we had initially, we also captured the live location data 
 ### Conclusion <a href="#conclusion-0" id="conclusion-0"></a>
 
 Google Maps is one of the most widely used applications in the world, where users find the shortest route between two locations. A map system models the road network with a graph data structure. To find the route, the shortest path algorithm runs over the graph. We’ve seen scalability issues with a large graph of the road network. We solved the problem by splitting the world into small segments. Each segment consists of a small graph that can be loaded into the memory to find the paths quickly. We’ve also seen that the estimated time of arrival can be improved by analyzing the live location data.
+
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of Google Maps](detailed-design-of-google-maps.md) | [Course Index](../README.md) | [Next: Design a Proximity Service / Yelp](../design-a-proximity-service-yelp.md)
+<!-- COURSE_NAV_END -->

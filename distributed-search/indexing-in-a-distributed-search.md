@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Distributed Search System's Design](requirements-of-a-distributed-search-systems-design.md) | [Course Index](../README.md) | [Next: Design of a Distributed Search](design-of-a-distributed-search.md)
+<!-- COURSE_NAV_END -->
+
 # Indexing in a Distributed Search
 
 We’ll first describe what indexing is, and then we’ll make our way toward distributing indexes over many nodes.
@@ -158,3 +162,7 @@ According to [Google analytics](https://www.google.com/search/howsearchworks/cra
 Attacks on centralized indexing can have a higher impact than attacks on a distributed indexing system. Furthermore, the odds of bottlenecks (which can arise in server bandwidth or RAM) are also lower in a distributed index.
 
 In this lesson, we learned about indexing, and we looked into the problems of indexing on a centralized system. The next lesson presents a distribution solution for indexing.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Distributed Search System's Design](requirements-of-a-distributed-search-systems-design.md) | [Course Index](../README.md) | [Next: Design of a Distributed Search](design-of-a-distributed-search.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Time Series Database](time-series-database.md) | [Course Index](../../README.md) | [Next: Data Replication](../data-replication/README.md)
+<!-- COURSE_NAV_END -->
+
 # Wide-Column Database
 
 ### What is a wide-column database? <a href="#what-is-a-wide-column-database" id="what-is-a-wide-column-database"></a>
@@ -24,3 +28,7 @@ Some of the real-world implementations of the tech:
 
 * [Netflix uses Cassandra](https://netflixtechblog.com/aegisthus-a-bulk-data-pipeline-out-of-cassandra-984882557fa) in the analytics infrastructure.
 * [Adobe and other big guns use HBase](https://hbase.apache.org/poweredbyhbase.html) for processing large amounts of data.
+
+<!-- COURSE_NAV_START -->
+[Previous: Time Series Database](time-series-database.md) | [Course Index](../../README.md) | [Next: Data Replication](../data-replication/README.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Focus on Client-side Errors in a Monitoring System](focus-on-client-side-errors-in-a-monitoring-system.md) | [Course Index](../README.md) | [Next: Distributed Cache](../distributed-cache/README.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Client-side Monitoring System
 
 A service has no visibility of the errors that don’t occur at its infrastructure. Still, such failures are equally frustrating for the customers, and they might have to ask their friends, “Is the service X down for you as well?” or head to sites like Downdetector to see if anyone else is reporting the same issues. They might report the problem via a Tweet or some other communication channel. However, all such cases have a slow feedback loop. As a service provider, we want to detect such problems as quickly as possible to take remedial measures. Let’s design such a system.
@@ -81,3 +85,7 @@ Any intermediary (like ISPs or middleboxes) can’t change, add, or remove the e
 
 * In a distributed system, it’s difficult to detect and respond to errors on the client side. So, it’s necessary to monitor such events to provide a good user experience.
 * We can handle errors using an independent agent that sends service reports about any failures to a collector. Such collectors should be independent of the primary service in terms of infrastructure and deployment.
+
+<!-- COURSE_NAV_START -->
+[Previous: Focus on Client-side Errors in a Monitoring System](focus-on-client-side-errors-in-a-monitoring-system.md) | [Course Index](../README.md) | [Next: Distributed Cache](../distributed-cache/README.md)
+<!-- COURSE_NAV_END -->

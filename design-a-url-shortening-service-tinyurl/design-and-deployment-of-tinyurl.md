@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of TinyURL's Design](requirements-of-tinyurls-design.md) | [Course Index](../README.md) | [Next: Encoder for TinyURL](encoder-for-tinyurl.md)
+<!-- COURSE_NAV_END -->
+
 # Design and Deployment of TinyURL
 
 ### System APIs <a href="#system-apis-0" id="system-apis-0"></a>
@@ -232,3 +236,7 @@ The above part explains the post-processing of a custom short URL association. S
 
 1. Once we generate IDs, we put them in the unused list. As soon as we use an ID from the unused list, we put it in the used list. This eliminates the possibility of duplicate association.
 2. As encoding guarantees unique mapping between base-10 and base-58, no two long URLs will have the same short URL.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of TinyURL's Design](requirements-of-tinyurls-design.md) | [Course Index](../README.md) | [Next: Encoder for TinyURL](encoder-for-tinyurl.md)
+<!-- COURSE_NAV_END -->

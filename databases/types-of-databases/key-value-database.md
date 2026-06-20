@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Graph Database](graph-database.md) | [Course Index](../../README.md) | [Next: Time Series Database](time-series-database.md)
+<!-- COURSE_NAV_END -->
+
 # Key-Value Database
 
 ### What is a key-value database? <a href="#what-is-a-key-value-database" id="what-is-a-key-value-database"></a>
@@ -40,3 +44,7 @@ Here are some of the real-world implementations of the tech:
 
 * [Twitter leverages Redis](https://blog.twitter.com/engineering/en\_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale) in its infrastructure.
 * [Google Cloud uses Memcached](https://cloud.google.com/appengine/docs/standard/python/memcache/) to implement caching on their cloud platform.
+
+<!-- COURSE_NAV_START -->
+[Previous: Graph Database](graph-database.md) | [Course Index](../../README.md) | [Next: Time Series Database](time-series-database.md)
+<!-- COURSE_NAV_END -->

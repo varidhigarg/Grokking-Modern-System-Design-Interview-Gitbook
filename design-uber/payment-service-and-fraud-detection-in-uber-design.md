@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of Uber](detailed-design-of-uber.md) | [Course Index](../README.md) | [Next: Evaluation of Uber’s Design](evaluation-of-ubers-design.md)
+<!-- COURSE_NAV_END -->
+
 # Payment Service and Fraud Detection in Uber Design
 
 Our goal in this lesson is to highlight the need to secure the system against malicious activities. We’ll discuss fraudulent activities in the context of payment. We’ll first briefly go through how the payment system works, and then we’ll cover how to guard our system against malicious activity.
@@ -102,3 +106,7 @@ Furthermore, the system examines the data in the following time dimensions:
 * Payment settlement time refers to obtaining payment processing data. It might take days or weeks to settle.
 
 We’ve just discussed the basic details of how guarding against malicious activity at scale is necessary for the success of a business. In the proposed model, the human experts are involved, potentially decreasing the scalability of the system. Research is being carried out on how to ensure that the decisions made by the AI system are fair and ethical.
+
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of Uber](detailed-design-of-uber.md) | [Course Index](../README.md) | [Next: Evaluation of Uber’s Design](evaluation-of-ubers-design.md)
+<!-- COURSE_NAV_END -->

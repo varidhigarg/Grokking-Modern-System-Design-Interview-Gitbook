@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Distributed Logging](introduction-to-distributed-logging.md) | [Course Index](../README.md) | [Next: Distributed Task Scheduler](../distributed-task-scheduler.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Distributed Logging Service
 
 We’ll design the distributed logging system now. Our logging system should log all activities or messages (we’ll not incorporate sampling ability into our design).
@@ -171,3 +175,7 @@ There can be various ways to design a distributed logging service, but it solely
 * We learned how logging is crucial in understanding the flow of events in a distributed system. It helps to reduce the mean time to repair (MTTR) by steering us toward the root causes of issues.
 * Logging is an I/O-intensive operation that is time-consuming and slow. It is essential to handle it carefully and not affect the critical path of other services’ execution.
 * Logging is essential for monitoring because the data fetched from logs helps monitor the health of an application. (Alert and error aggregators serve this purpose.)
+
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Distributed Logging](introduction-to-distributed-logging.md) | [Course Index](../README.md) | [Next: Distributed Task Scheduler](../distributed-task-scheduler.md)
+<!-- COURSE_NAV_END -->

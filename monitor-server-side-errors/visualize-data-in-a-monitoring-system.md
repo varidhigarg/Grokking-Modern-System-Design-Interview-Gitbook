@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of a Monitoring System](detailed-design-of-a-monitoring-system.md) | [Course Index](../README.md) | [Next: Monitor Client-side Errors](../monitor-client-side-errors/README.md)
+<!-- COURSE_NAV_END -->
+
 # Visualize Data in a Monitoring System
 
 Large data centers have millions of servers, and visualizing the health data for all of them is challenging. An important aspect of monitoring a fleet of servers is to know which ones are alive and which ones are offline. A modern data center can house many thousands of servers in a building. We can use a heat map to display information about thousands of servers compactly in a data center.
@@ -23,3 +27,7 @@ We can create similar heat maps to get a bird’s-eye view of any resource, like
 * Monitoring systems are critical in distributed systems because they help in analyzing the system and alerting the stakeholders if a problem occurs.
 * We can make a monitoring system scalable using a hybrid of the push and pull methods.
 * Heat maps are a powerful tool for visualization and help us learn about the health of thousands of servers in a compact space.
+
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of a Monitoring System](detailed-design-of-a-monitoring-system.md) | [Course Index](../README.md) | [Next: Monitor Client-side Errors](../monitor-client-side-errors/README.md)
+<!-- COURSE_NAV_END -->

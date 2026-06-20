@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Blob Store](../blob-store.md) | [Course Index](../README.md) | [Next: Requirements of a Blob Store's Design](requirements-of-a-blob-stores-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: A Blob Store
 
 ### What is a blob store? <a href="#what-is-a-blob-store" id="what-is-a-blob-store"></a>
@@ -33,3 +37,7 @@ We have divided the design of the blob store into five lessons and a quiz.
 5. [**Quiz:**](quiz-on-the-blob-stores-design.md) In this lesson, we assess understanding of the blob store design.
 
 Let’s start with the requirements of a blob store system.
+
+<!-- COURSE_NAV_START -->
+[Previous: Blob Store](../blob-store.md) | [Course Index](../README.md) | [Next: Requirements of a Blob Store's Design](requirements-of-a-blob-stores-design.md)
+<!-- COURSE_NAV_END -->

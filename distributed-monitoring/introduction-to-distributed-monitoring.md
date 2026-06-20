@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Distributed Monitoring](system-design-distributed-monitoring.md) | [Course Index](../README.md) | [Next: Prerequisites of a Monitoring System](prerequisites-of-a-monitoring-system.md)
+<!-- COURSE_NAV_END -->
+
 # Introduction to Distributed Monitoring
 
 ### Need for monitoring[#](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/introduction-to-distributed-monitoring#Need-for-monitoring-0) <a href="#need-for-monitoring-0" id="need-for-monitoring-0"></a>
@@ -56,3 +60,7 @@ With the above examples, we can divide our monitoring focus into two broad categ
 * **Client-side errors**: These are errors whose root cause is on the client-side. Such errors are reported as error 4xx in HTTP response codes. Some client-side errors are invisible to the service when client requests fail to reach the service.
 
 We’ll explore how to design a monitoring service to handle both scenarios in the upcoming chapter [Monitoring Server-side Errors](../monitor-server-side-errors/design-of-a-monitoring-system.md) and [Monitoring Client-side Errors](../monitor-client-side-errors/focus-on-client-side-errors-in-a-monitoring-system.md). We want our monitoring systems to analyze our globally distributed services. It allows a better understanding of the system’s components and agility to detect and respond to faults.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Distributed Monitoring](system-design-distributed-monitoring.md) | [Course Index](../README.md) | [Next: Prerequisites of a Monitoring System](prerequisites-of-a-monitoring-system.md)
+<!-- COURSE_NAV_END -->

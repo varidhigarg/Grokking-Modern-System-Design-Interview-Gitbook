@@ -2,6 +2,10 @@
 description: Learn to use appropriate numbers in back-of-the-envelope calculations.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Back-of-the-envelope Calculations](README.md) | [Course Index](../README.md) | [Next: Examples of Resource Estimation](page-2.md)
+<!-- COURSE_NAV_END -->
+
 # Put Back-of-the-envelope Numbers in Perspective
 
 ### Why do we use back-of-the-envelope calculations? <a href="#why-do-we-use-back-of-the-envelope-calculations" id="why-do-we-use-back-of-the-envelope-calculations"></a>
@@ -142,3 +146,7 @@ The calculations above are only an approximation for developing an understanding
 On a typical day, various types of requests arrive, and a powerful server that only serves static content from the RAM might handle as many as 500k RPS. On the other end of the spectrum, computational-intensive tasks like image processing may only allow a maximum of 50 RPS.
 
 > **Note:** In reality, capacity estimation is a hard problem, and organizations learn how to improve it over the years. A monitoring system keeps an eye on all parts of our infrastructure to give us early warnings about overloading servers.
+
+<!-- COURSE_NAV_START -->
+[Previous: Back-of-the-envelope Calculations](README.md) | [Course Index](../README.md) | [Next: Examples of Resource Estimation](page-2.md)
+<!-- COURSE_NAV_END -->

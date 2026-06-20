@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Blob Store's Design](requirements-of-a-blob-stores-design.md) | [Course Index](../README.md) | [Next: Design Considerations of a Blob Store](design-considerations-of-a-blob-store.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Blob Store
 
 ### High-level design <a href="#high-level-design-0" id="high-level-design-0"></a>
@@ -194,3 +198,7 @@ The technique that we use for this is called checkpointing, meaning we take snap
 \------------
 
 In the next lesson, we talk about the design considerations of a blob store.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Blob Store's Design](requirements-of-a-blob-stores-design.md) | [Course Index](../README.md) | [Next: Design Considerations of a Blob Store](design-considerations-of-a-blob-store.md)
+<!-- COURSE_NAV_END -->

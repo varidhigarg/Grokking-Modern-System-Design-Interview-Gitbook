@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design Google Maps](../design-google-maps.md) | [Course Index](../README.md) | [Next: Requirements of Google Maps' Design](requirements-of-google-maps-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: Google Maps
 
 ### What is Google Maps?[#](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-google-maps#What-is-Google-Maps?-0) <a href="#what-is-google-maps-0" id="what-is-google-maps-0"></a>
@@ -36,3 +40,7 @@ We divide the design of Google Maps into five lessons:
 5. [**Evaluation**](evaluation-of-google-maps-design.md): This lesson explains how our designed Google Maps system fulfills all the requirements.
 
 Let’s start by understanding the requirements for designing a system like Google Maps.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design Google Maps](../design-google-maps.md) | [Course Index](../README.md) | [Next: Requirements of Google Maps' Design](requirements-of-google-maps-design.md)
+<!-- COURSE_NAV_END -->

@@ -2,6 +2,10 @@
 description: Understand the models through which data is replicated across several nodes.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Wide-Column Database](../types-of-databases/wide-column-database.md) | [Course Index](../../README.md) | [Next: What is a quorum?](what-is-a-quorum.md)
+<!-- COURSE_NAV_END -->
+
 # Data Replication
 
 Data is an asset for an organization because it drives the whole business. Data provides critical business insights into what’s important and what needs to be changed. Organizations also need to securely save and serve their clients’ data on demand. Timely access to the required data under varying conditions (increasing reads and writes, disks and node failures, network and power outages, and so on) is required to successfully run an online business.
@@ -164,3 +168,7 @@ Let’s suppose we have three nodes. If at least two out of three nodes are guar
 >
 > * [What is Quorum?](what-is-a-quorum.md)
 > * [What is Quorum in distributed systems?](what-is-quorum-in-distributed-systems.md)
+
+<!-- COURSE_NAV_START -->
+[Previous: Wide-Column Database](../types-of-databases/wide-column-database.md) | [Course Index](../../README.md) | [Next: What is a quorum?](what-is-a-quorum.md)
+<!-- COURSE_NAV_END -->

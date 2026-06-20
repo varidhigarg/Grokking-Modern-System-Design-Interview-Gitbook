@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Indexing in a Distributed Search](indexing-in-a-distributed-search.md) | [Course Index](../README.md) | [Next: Scaling Search and Indexing](scaling-search-and-indexing.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Distributed Search
 
 ### High-level design <a href="#high-level-design-0" id="high-level-design-0"></a>
@@ -121,3 +125,7 @@ In this lesson, we learned how to handle a large number of data, and a large num
 * Replicating each partition, which means that we replicate the indexing and searching process as well.
 
 We successfully designed a system that scales with read (search) and write (indexing) operations colocated on the same node. But, this scaling method brings some drawbacks. We’ll look into the drawbacks and their solutions in the next lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: Indexing in a Distributed Search](indexing-in-a-distributed-search.md) | [Course Index](../README.md) | [Next: Scaling Search and Indexing](scaling-search-and-indexing.md)
+<!-- COURSE_NAV_END -->

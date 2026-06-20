@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design a Collaborative Document Editing Service / Google Docs](../design-a-collaborative-document-editing-service-google-docs.md) | [Course Index](../README.md) | [Next: Requirements of Google Docs’ Design](requirements-of-google-docs-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: Google Docs
 
 ### Problem statement <a href="#problem-statement-0" id="problem-statement-0"></a>
@@ -41,3 +45,7 @@ We've divided the design problem into four stages:
 4. [**Evaluating Google Docs’ Design**](evaluation-of-google-docs-design.md): The main objective of this lesson is to evaluate our design for non-functional requirements. Mainly, we see if our design is performant, consistent, available, and scalable.
 
 Let’s begin with a look at our requirements.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design a Collaborative Document Editing Service / Google Docs](../design-a-collaborative-document-editing-service-google-docs.md) | [Course Index](../README.md) | [Next: Requirements of Google Docs’ Design](requirements-of-google-docs-design.md)
+<!-- COURSE_NAV_END -->

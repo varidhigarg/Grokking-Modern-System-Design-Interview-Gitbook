@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Rate Limiter](design-of-a-rate-limiter.md) | [Course Index](../README.md) | [Next: Quiz on the Rate Limiter’s Design](quiz-on-the-rate-limiters-design.md)
+<!-- COURSE_NAV_END -->
+
 # Rate Limiter Algorithms
 
 ### Algorithms for rate limiting <a href="#algorithms-for-rate-limiting-0" id="algorithms-for-rate-limiting-0"></a>
@@ -201,3 +205,7 @@ The following table shows the space efficiency and burst of traffic for all algo
 ### Conclusion <a href="#conclusion-0" id="conclusion-0"></a>
 
 In this lesson, we explored various popular rate-limiting algorithms. We also shed light on the advantages and disadvantages of these algorithms. Each of these algorithms can be deployed based on the user choice and the type of use case.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Rate Limiter](design-of-a-rate-limiter.md) | [Course Index](../README.md) | [Next: Quiz on the Rate Limiter’s Design](quiz-on-the-rate-limiters-design.md)
+<!-- COURSE_NAV_END -->

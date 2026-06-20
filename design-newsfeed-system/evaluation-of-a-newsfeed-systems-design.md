@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Newsfeed System](design-of-a-newsfeed-system.md) | [Course Index](../README.md) | [Next: Design Instagram](../design-instagram.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of a Newsfeed System’s Design
 
 ### Fulfill requirements <a href="#fulfill-requirements-0" id="fulfill-requirements-0"></a>
@@ -24,3 +28,7 @@ Our non-functional requirements for the proposed newsfeed system design are scal
 ### Summary <a href="#summary-0" id="summary-0"></a>
 
 In this chapter, we learned to design a newsfeed system at scale. Our design ranked enormous user data to show carefully curated content to the user for better user experience and engagement. Our newsfeed design is general enough that it can be used in many places such as Twitter feeds, Facebook posts, YouTube and Instagram recommendations, News applications, and so on.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Newsfeed System](design-of-a-newsfeed-system.md) | [Course Index](../README.md) | [Next: Design Instagram](../design-instagram.md)
+<!-- COURSE_NAV_END -->

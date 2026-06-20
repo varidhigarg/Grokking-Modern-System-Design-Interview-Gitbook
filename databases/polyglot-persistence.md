@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Is NoSQL More Performant Than SQL?](is-nosql-more-performant-than-sql.md) | [Course Index](../README.md) | [Next: Multi-Model Databases](multi-model-databases.md)
+<!-- COURSE_NAV_END -->
+
 # Polyglot Persistence
 
 ### What Is polyglot persistence? <a href="#what-is-polyglot-persistence" id="what-is-polyglot-persistence"></a>
@@ -53,3 +57,7 @@ Well, there is.
 What?
 
 We will find out in the lesson up-next.
+
+<!-- COURSE_NAV_START -->
+[Previous: Is NoSQL More Performant Than SQL?](is-nosql-more-performant-than-sql.md) | [Course Index](../README.md) | [Next: Multi-Model Databases](multi-model-databases.md)
+<!-- COURSE_NAV_END -->

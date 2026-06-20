@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of Google Maps](design-of-google-maps.md) | [Course Index](../README.md) | [Next: Detailed Design of Google Maps](detailed-design-of-google-maps.md)
+<!-- COURSE_NAV_END -->
+
 # Challenges of Google Maps' Design
 
 ### Meeting the challenges <a href="#meeting-the-challenges-0" id="meeting-the-challenges-0"></a>
@@ -83,3 +87,7 @@ For computing the ETA with reasonable accuracy, we collect the live location dat
 The information above helps us provide a more accurate ETA. For example, if we know that the traffic will be high at a specific time on a particular road, the ETA should also be greater than usual.
 
 In this lesson, we looked at how we meet the scalability challenge through segments and ETA computation using live data. In the next lesson, we’ll discuss the design in more detail.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of Google Maps](design-of-google-maps.md) | [Course Index](../README.md) | [Next: Detailed Design of Google Maps](detailed-design-of-google-maps.md)
+<!-- COURSE_NAV_END -->

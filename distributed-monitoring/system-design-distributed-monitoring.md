@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Distributed Monitoring](README.md) | [Course Index](../README.md) | [Next: Introduction to Distributed Monitoring](introduction-to-distributed-monitoring.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: Distributed Monitoring
 
 ### Monitoring <a href="#monitoring" id="monitoring"></a>
@@ -28,3 +32,7 @@ We’ve divided the distributed monitoring system design into the following chap
    2. [**Design a Client-side Monitoring System**:](../monitor-client-side-errors/design-of-a-client-side-monitoring-system.md) Learn to design a system that monitors the client-side errors.
 
 In the next lesson, we’ll look at why monitoring is essential in a distributed system through an example. We’ll also look at the downtime cost of failures and monitoring types.
+
+<!-- COURSE_NAV_START -->
+[Previous: Distributed Monitoring](README.md) | [Course Index](../README.md) | [Next: Introduction to Distributed Monitoring](introduction-to-distributed-monitoring.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Distributed Logging](../distributed-logging.md) | [Course Index](../README.md) | [Next: Introduction to Distributed Logging](introduction-to-distributed-logging.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: Distributed Logging
 
 ### Logging <a href="#logging" id="logging"></a>
@@ -29,3 +33,7 @@ We have divided the distributed logging system design into the following two les
 
 1. [**Introduction**](introduction-to-distributed-logging.md): We’ll discuss how logging works at a distributed level. We’ll also show how we can restrict the huge size of a log file, and structure them. This lesson will guide us about the requirements we should consider while logging information about a system.
 2. [**Design**](design-of-a-distributed-logging-service.md): In this lesson, we’ll define the requirements, API design, and detailed design of our distributed logging system.
+
+<!-- COURSE_NAV_START -->
+[Previous: Distributed Logging](../distributed-logging.md) | [Course Index](../README.md) | [Next: Introduction to Distributed Logging](introduction-to-distributed-logging.md)
+<!-- COURSE_NAV_END -->

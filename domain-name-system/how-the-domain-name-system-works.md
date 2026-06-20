@@ -2,6 +2,10 @@
 description: Understand the detailed working of the domain name system.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Domain Name System (DNS)](introduction-to-domain-name-system-dns.md) | [Course Index](../README.md) | [Next: Load Balancers](../load-balancers.md)
+<!-- COURSE_NAV_END -->
+
 # How the Domain Name System Works
 
 Through this lesson, we’ll answer the following questions:
@@ -151,3 +155,7 @@ If we need DNS to tell us which IP to reach a website or service, how will we kn
 End users’ operating systems have configuration files (`/etc/resolv.conf` in Linux) with the DNS resolvers’ IP addresses, which in turn obtain all information for them. (Often, DHCP provides the default DNS resolver IP address along with other configurations.) The end-systems request DNS resolves for any DNS queries. DNS resolvers have special software installed to resolve queries through the DNS infrastructure. The root server’s IP addresses are within the special software. Typically, the Berkeley Internet Name Domain (BIND) software is used on DNS resolvers. The [InterNIC](https://www.internic.net/domain/named.root) maintains the updated list of 13 root servers.
 
 So, we break the chicken-and-egg problem by seeding each resolver with prior knowledge of root DNS servers (whose IPs rarely change).
+
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Domain Name System (DNS)](introduction-to-domain-name-system-dns.md) | [Course Index](../README.md) | [Next: Load Balancers](../load-balancers.md)
+<!-- COURSE_NAV_END -->

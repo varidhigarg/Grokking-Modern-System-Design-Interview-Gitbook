@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Distributed Cache](README.md) | [Course Index](../README.md) | [Next: Background of Distributed Cache](background-of-distributed-cache.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: The Distributed Cache
 
 ### Problem statement <a href="#problem-statement-0" id="problem-statement-0"></a>
@@ -67,3 +71,7 @@ We’ll divide the task of designing and reinforcing learning major concepts of 
 5. [**Memcached versus Redis**:](memcached-versus-redis.md) We’ll discuss well-known industrial solutions, namely Memcached and Redis. We’ll also go through their details and compare their features to help us understand their potential use cases and how they relate to our design.
 
 Let’s begin by exploring the background of the distributed cache in the next lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: Distributed Cache](README.md) | [Course Index](../README.md) | [Next: Background of Distributed Cache](background-of-distributed-cache.md)
+<!-- COURSE_NAV_END -->

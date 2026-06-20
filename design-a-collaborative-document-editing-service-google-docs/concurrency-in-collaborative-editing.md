@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of Google Docs](design-of-google-docs.md) | [Course Index](../README.md) | [Next: Evaluation of Google Docs’ Design](evaluation-of-google-docs-design.md)
+<!-- COURSE_NAV_END -->
+
 # Concurrency in Collaborative Editing
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -130,3 +134,7 @@ What happens if there are two users collaborating on a document and they have di
 With a varied Internet connection speed, the order of operations between users can lead to problems. However, operations are order dependent in OT, whereas operations in CRDTs are order independent. This is why CRDTs are a suitable solution to such a problem.
 
 \
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of Google Docs](design-of-google-docs.md) | [Course Index](../README.md) | [Next: Evaluation of Google Docs’ Design](evaluation-of-google-docs-design.md)
+<!-- COURSE_NAV_END -->

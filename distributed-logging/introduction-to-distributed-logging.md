@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Distributed Logging](system-design-distributed-logging.md) | [Course Index](../README.md) | [Next: Design of a Distributed Logging Service](design-of-a-distributed-logging-service.md)
+<!-- COURSE_NAV_END -->
+
 # Introduction to Distributed Logging
 
 ### Logging in a distributed system <a href="#logging-in-a-distributed-system-0" id="logging-in-a-distributed-system-0"></a>
@@ -74,3 +78,7 @@ We should be careful while logging. The logging information should only contain 
 #### Vulnerability in logging infrastructure <a href="#vulnerability-in-logging-infrastructure-1" id="vulnerability-in-logging-infrastructure-1"></a>
 
 A **zero-day vulnerability** in Log4j, a famous logging framework for Java, has been identified recently. Log4j has contained the hidden vulnerability, Log4Shell (CVE-2021-44228), since 2013. Apache gave the highest available score, a CVSS severity rating of 10, to Log4Shell. The exploit is simple to execute and affects hundreds of millions of devices. Security experts are convinced that this vulnerability can allow devastating cyberattacks internationally because it can enable attackers to run malicious code and take control of the machine.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Distributed Logging](system-design-distributed-logging.md) | [Course Index](../README.md) | [Next: Design of a Distributed Logging Service](design-of-a-distributed-logging-service.md)
+<!-- COURSE_NAV_END -->

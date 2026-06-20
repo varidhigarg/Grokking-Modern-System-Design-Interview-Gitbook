@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Data Structure for Storing Prefixes](data-structure-for-storing-prefixes.md) | [Course Index](../README.md) | [Next: Evaluation of the Typeahead Suggestion System’s Design](evaluation-of-the-typeahead-suggestion-systems-design.md)
+<!-- COURSE_NAV_END -->
+
 # Detailed Design of the Typeahead Suggestion System
 
 ### Detailed design <a href="#detailed-design-0" id="detailed-design-0"></a>
@@ -61,3 +65,7 @@ Should we collect data and build a trie per user, or should it be shared among a
 Since we aim to design a system on a scale that’s similar to Google Search, billions of users will be using our service. Since the number of users would be huge, maintaining a tree for each user would become complex and time-consuming. There’s also a possibility of duplicated trees if several users have typed some common searches, resulting in resource wastage.
 
 Therefore, our design assumes a **common trie** that’s shared among users, where the ranking would be based on single phrases in the trie and the frequency of the terms.
+
+<!-- COURSE_NAV_START -->
+[Previous: Data Structure for Storing Prefixes](data-structure-for-storing-prefixes.md) | [Course Index](../README.md) | [Next: Evaluation of the Typeahead Suggestion System’s Design](evaluation-of-the-typeahead-suggestion-systems-design.md)
+<!-- COURSE_NAV_END -->

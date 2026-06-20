@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Facebook, WhatsApp, Instagram, Oculus Outage](facebook-whatsapp-instagram-oculus-outage.md) | [Course Index](../README.md) | [Next: AWS Wide Spread Outage](aws-wide-spread-outage.md)
+<!-- COURSE_NAV_END -->
+
 # AWS Kinesis Outage Affecting Many Organizations
 
 **Amazon Kinesis** allows us to aggregate, process, and analyze real-time streaming data to get timely insights and react quickly to the information it provides. It continuously captures gigabytes of data from hundreds of thousands of sources per second. The Kinesis service’s frontend handles authentication, throttling, and distributes workloads to its back-end “workhorse” cluster via database sharding. On November 25, 2020, the Amazon Kinesis service was disrupted in the US-East-1 (Northern Virginia) region, affecting thousands of other third-party services. The failure was significant enough to take out a large portion of Internet services.
@@ -50,3 +54,7 @@ What possible measures should Amazon have adopted to safeguard against the kind 
 * Building an application across multiple clouds or AWS regions would have made it easier for the affected customers to recover quickly.
 * There’s a need to uncouple services to an extreme extent to eliminate cross-dependency issues.
 * Failures in a complex system are inevitable. However, some important services like the status dashboard should be hosted on different servers, either inside the service or in some third-party’s infrastructure.
+
+<!-- COURSE_NAV_START -->
+[Previous: Facebook, WhatsApp, Instagram, Oculus Outage](facebook-whatsapp-instagram-oculus-outage.md) | [Course Index](../README.md) | [Next: AWS Wide Spread Outage](aws-wide-spread-outage.md)
+<!-- COURSE_NAV_END -->

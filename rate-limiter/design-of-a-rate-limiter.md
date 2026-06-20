@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Rate Limiter’s Design](requirements-of-a-rate-limiters-design.md) | [Course Index](../README.md) | [Next: Rate Limiter Algorithms](rate-limiter-algorithms.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Rate Limiter
 
 ### High-level design <a href="#high-level-design-0" id="high-level-design-0"></a>
@@ -98,3 +102,7 @@ In this lesson, we discussed the design of a rate limiter in distributed systems
 * **Scalability:** The number of rate limiters can be increased or decreased based on the number of incoming requests within the defined limit.
 
 Now, our system provides high availability, low latency, and scalability in light of the above discussion.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of a Rate Limiter’s Design](requirements-of-a-rate-limiters-design.md) | [Course Index](../README.md) | [Next: Rate Limiter Algorithms](rate-limiter-algorithms.md)
+<!-- COURSE_NAV_END -->

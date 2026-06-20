@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Considerations of a Distributed Messaging Queue’s Design](considerations-of-a-distributed-messaging-queues-design.md) | [Course Index](../README.md) | [Next: Design of a Distributed Messaging Queue: Part 2](design-of-a-distributed-messaging-queue-part-2.md)
+<!-- COURSE_NAV_END -->
+
 # Design of a Distributed Messaging Queue: Part 1
 
 So far, we’ve discussed the requirements and design considerations of a distributed messaging queue. Now, let’s begin with learning about the high-level design of a distributed messaging queue.
@@ -64,3 +68,7 @@ In our discussion on distributed messaging queues, we focused on the high-level 
 * Metadata clusters and their organization.
 
 A vital part of the design is the organization of servers at the back-end for queue creation, deletion, and other such operations. The next lesson focuses on the organization of back-end servers and the management of queues, along with other important operations related to message delivery and retrieval.
+
+<!-- COURSE_NAV_START -->
+[Previous: Considerations of a Distributed Messaging Queue’s Design](considerations-of-a-distributed-messaging-queues-design.md) | [Course Index](../README.md) | [Next: Design of a Distributed Messaging Queue: Part 2](design-of-a-distributed-messaging-queue-part-2.md)
+<!-- COURSE_NAV_END -->

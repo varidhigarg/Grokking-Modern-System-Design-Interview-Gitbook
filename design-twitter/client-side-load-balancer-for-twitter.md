@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of Twitter](detailed-design-of-twitter.md) | [Course Index](../README.md) | [Next: Quiz on Twitter's Design](quiz-on-twitters-design.md)
+<!-- COURSE_NAV_END -->
+
 # Client-side Load Balancer for Twitter
 
 ### Introduction <a href="#introduction-0" id="introduction-0"></a>
@@ -122,3 +126,7 @@ Let’s look at the below table to get an overview of the discussed approaches.
 ### Conclusion <a href="#conclusion-0" id="conclusion-0"></a>
 
 This design problem highlights that tweaking the performance of common building blocks and utilizing the right (rich) combination of them is necessary for real-world services. Our needs from one service to the next will dictate which design point we choose in our solution space. In this chapter, we saw examples of how Twitter uses a combination of data stores and custom algorithms for load-balancing.
+
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of Twitter](detailed-design-of-twitter.md) | [Course Index](../README.md) | [Next: Quiz on Twitter's Design](quiz-on-twitters-design.md)
+<!-- COURSE_NAV_END -->

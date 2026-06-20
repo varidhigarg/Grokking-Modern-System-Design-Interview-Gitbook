@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Eventual Consistency](eventual-consistency.md) | [Course Index](../README.md) | [Next: CAP Theorem](cap-theorem.md)
+<!-- COURSE_NAV_END -->
+
 # Strong Consistency
 
 ### What is strong consistency? <a href="#what-is-strong-consistency" id="what-is-strong-consistency"></a>
@@ -27,3 +31,7 @@ So, by now, I am sure you have realized that moving ahead with the strong consis
 Distributed systems like NoSQL databases that scale horizontally on the fly don’t support ACID transactions globally, and this is due to their inherent design. Well, the whole reason for the development of NoSQL tech was its ability to scale and be highly available.
 
 This is pretty much it for strong consistency. Now, let’s look into the _CAP theorem_ in the lesson up next.
+
+<!-- COURSE_NAV_START -->
+[Previous: Eventual Consistency](eventual-consistency.md) | [Course Index](../README.md) | [Next: CAP Theorem](cap-theorem.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of a CDN](design-of-a-cdn.md) | [Course Index](../README.md) | [Next: In-depth Investigation of CDN: Part 2](in-depth-investigation-of-cdn-part-2.md)
+<!-- COURSE_NAV_END -->
+
 # In-depth Investigation of CDN: Part 1
 
 In this lesson, we’ll go into the details of certain concepts, such as CDN models and multi-tier/layered CDN architecture, that we mentioned in the previous lessons. We’ll also introduce some new concepts, including dynamic content caching optimization and various techniques to discover the nearby proxy servers in CDNs.
@@ -118,3 +122,7 @@ Below is an example of an HTML snippet provided by Facebook. As is highlighted i
 123456789101112131415\<!––  The code below is taken from Facebook. -->\<div class="fb\_content clearfix " id="content" role="main"> \<div>  \<div class="\_8esj \_95k9 \_8esf \_8opv \_8f3m \_8ilg \_8icx \_8op\_ \_95ka">   \<div class="\_8esk">    \<div class="\_8esl">     \<div class="\_8ice">      \<img class="fb\_logo" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg">      \</div>     \<h2 class="\_8eso">Facebook helps you connect and share with the people in your life.\</h2>    \</div>   \</div>  \</div> \</div>\</div>An example of HTML containing a redirection URL
 
 In the next lesson, we discuss the different details of content consistency and proxy server deployment in CDN.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of a CDN](design-of-a-cdn.md) | [Course Index](../README.md) | [Next: In-depth Investigation of CDN: Part 2](in-depth-investigation-of-cdn-part-2.md)
+<!-- COURSE_NAV_END -->

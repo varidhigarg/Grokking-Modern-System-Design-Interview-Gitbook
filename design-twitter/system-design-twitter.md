@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design Twitter](../design-twitter.md) | [Course Index](../README.md) | [Next: Requirements of Twitter’s Design](requirements-of-twitters-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: Twitter
 
 ### Twitter <a href="#twitter-0" id="twitter-0"></a>
@@ -20,3 +24,7 @@ We’ll divide Twitter’s design into four sections:
 4. [**Quiz**](quiz-on-twitters-design.md): Finally, we’ll reinforce major concepts of Twitter design with a quiz.
 
 Let’s begin with defining Twitter’s requirements.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design Twitter](../design-twitter.md) | [Course Index](../README.md) | [Next: Requirements of Twitter’s Design](requirements-of-twitters-design.md)
+<!-- COURSE_NAV_END -->

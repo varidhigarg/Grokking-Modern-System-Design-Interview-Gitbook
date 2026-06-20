@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Scaling Search and Indexing](scaling-search-and-indexing.md) | [Course Index](../README.md) | [Next: Distributed Logging](../distributed-logging.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of a Distributed Search's Design
 
 ### Availability <a href="#availability-0" id="availability-0"></a>
@@ -32,3 +36,7 @@ We used cheaper machines to compute indexes and perform searches. If one node fa
 ### Conclusion <a href="#conclusion-3" id="conclusion-3"></a>
 
 A search system is required for almost every application. We have seen that it isn’t possible to develop a search system that can run on a single node. We utilized a parallel computation framework and low-cost machines to build a search system that is available, scalable, and highly performant.
+
+<!-- COURSE_NAV_START -->
+[Previous: Scaling Search and Indexing](scaling-search-and-indexing.md) | [Course Index](../README.md) | [Next: Distributed Logging](../distributed-logging.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Data Replication](README.md) | [Course Index](../../README.md) | [Next: What is quorum in distributed systems?](what-is-quorum-in-distributed-systems.md)
+<!-- COURSE_NAV_END -->
+
 # What is a quorum?
 
 Definition
@@ -31,3 +35,7 @@ With the concept of quorum, the system would only work if more than half the nod
 **Conclusion**
 
 Quorum is used in almost all consensus-based algorithms in distributed systems. `Raft` is one of the famous consensus algorithms that uses quorum as the core of their algorithm logic.
+
+<!-- COURSE_NAV_START -->
+[Previous: Data Replication](README.md) | [Course Index](../../README.md) | [Next: What is quorum in distributed systems?](what-is-quorum-in-distributed-systems.md)
+<!-- COURSE_NAV_END -->

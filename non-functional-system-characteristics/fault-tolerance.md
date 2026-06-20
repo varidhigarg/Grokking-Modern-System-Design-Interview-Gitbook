@@ -2,6 +2,10 @@
 description: Learn about fault tolerance, how to measure it, and its importance.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Maintainability](maintainability.md) | [Course Index](../README.md) | [Next: Back-of-the-envelope Calculations](../back-of-the-envelope-calculations/README.md)
+<!-- COURSE_NAV_END -->
+
 # Fault Tolerance
 
 ### What is fault tolerance? <a href="#what-is-fault-tolerance" id="what-is-fault-tolerance"></a>
@@ -39,3 +43,7 @@ Checkpointing also comes with the same problem that we have in replication. When
 **Consistent state**: The illustration above shows no communication among the processes when the system performs checkpointing. All the processes are sending or receiving messages before and after checkpointing. This state of the system is called a consistent state.
 
 **Inconsistent state**: The illustration also displays that processes communicate through messages when the system performs checkpointing. This indicates an inconsistent state, because when we get a previously saved checkpoint, _Process i_ will have a message (m11​) and _Process j_ will have no record of message sending.
+
+<!-- COURSE_NAV_START -->
+[Previous: Maintainability](maintainability.md) | [Course Index](../README.md) | [Next: Back-of-the-envelope Calculations](../back-of-the-envelope-calculations/README.md)
+<!-- COURSE_NAV_END -->

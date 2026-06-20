@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Sharded Counters](../sharded-counters.md) | [Course Index](../README.md) | [Next: High-level Design of Sharded Counters](high-level-design-of-sharded-counters.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: The Sharded Counters
 
 ### Problem statement <a href="#problem-statement-0" id="problem-statement-0"></a>
@@ -23,3 +27,7 @@ We have divided the design of sharded counters into three lessons:
 3. [**Quiz**](quiz-on-the-sharded-counters-design.md): We’ll review major concepts of sharded counters design with a quiz.
 
 Let’s begin with the high-level solution sketch of sharded counters.
+
+<!-- COURSE_NAV_START -->
+[Previous: Sharded Counters](../sharded-counters.md) | [Course Index](../README.md) | [Next: High-level Design of Sharded Counters](high-level-design-of-sharded-counters.md)
+<!-- COURSE_NAV_END -->

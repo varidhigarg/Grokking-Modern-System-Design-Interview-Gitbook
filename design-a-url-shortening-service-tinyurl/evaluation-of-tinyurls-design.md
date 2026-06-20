@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Encoder for TinyURL](encoder-for-tinyurl.md) | [Course Index](../README.md) | [Next: Quiz on TinyURL's Design](quiz-on-tinyurls-design.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of TinyURL's Design
 
 ### Reviewing the requirements <a href="#reviewing-the-requirements-0" id="reviewing-the-requirements-0"></a>
@@ -78,3 +82,7 @@ The URL shortening system is an effective service with multiple advantages. Our 
 2. Improved readability
 
 A possible addition could be the introduction of (local) salt to further increase the unpredictability (security) of the design.
+
+<!-- COURSE_NAV_START -->
+[Previous: Encoder for TinyURL](encoder-for-tinyurl.md) | [Course Index](../README.md) | [Next: Quiz on TinyURL's Design](quiz-on-tinyurls-design.md)
+<!-- COURSE_NAV_END -->

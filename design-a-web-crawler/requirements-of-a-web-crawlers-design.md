@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Web Crawler](system-design-web-crawler.md) | [Course Index](../README.md) | [Next: Design of a Web Crawler](design-of-a-web-crawler.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of a Web Crawler's Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -130,3 +134,7 @@ Besides these basic building blocks, our design includes some additional compone
 <figure><img src="../.gitbook/assets/Screenshot 2023-09-06 at 1.24.09 AM.png" alt=""><figcaption></figcaption></figure>
 
 In the next lesson, we’ll focus on the high-level and detailed design of a web crawler.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: Web Crawler](system-design-web-crawler.md) | [Course Index](../README.md) | [Next: Design of a Web Crawler](design-of-a-web-crawler.md)
+<!-- COURSE_NAV_END -->

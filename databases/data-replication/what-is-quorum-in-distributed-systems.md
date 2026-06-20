@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: What is a quorum?](what-is-a-quorum.md) | [Course Index](../../README.md) | [Next: Data Partitioning](../data-partitioning.md)
+<!-- COURSE_NAV_END -->
+
 # What is quorum in distributed systems?
 
 #### Introduction
@@ -31,3 +35,7 @@ Similarly, if there are five replicas in a cluster and three of them acknowledge
 A quorum can be achieved only when the nodes adhere to the methodology w+r>n where w is the minimum nodes for write operations, r is the minimum nodes for read operations, and n is the total number of nodes in a cluster.
 
 In a 3-node cluster, if we read from two nodes, at least one of them will be online and have the updated version, and our cluster will be able to continue functioning. When we have a total of n nodes, all the write operations must be successful in at least w nodes to be regarded as a success for the cluster, and the read operation must be performed from r nodes. We will obtain an updated value from nodes as long as w+r>n since at least one of the nodes we are reading has an updated write. The quorum reads and writes are those that follow these r and w values.
+
+<!-- COURSE_NAV_START -->
+[Previous: What is a quorum?](what-is-a-quorum.md) | [Course Index](../../README.md) | [Next: Data Partitioning](../data-partitioning.md)
+<!-- COURSE_NAV_END -->

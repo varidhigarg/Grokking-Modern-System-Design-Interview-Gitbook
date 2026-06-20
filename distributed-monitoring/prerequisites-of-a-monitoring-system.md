@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Distributed Monitoring](introduction-to-distributed-monitoring.md) | [Course Index](../README.md) | [Next: Monitor Server-side Errors](../monitor-server-side-errors/README.md)
+<!-- COURSE_NAV_END -->
+
 # Prerequisites of a Monitoring System
 
 ### Monitoring: metrics and alerting <a href="#monitoring-metrics-and-alerting-0" id="monitoring-metrics-and-alerting-0"></a>
@@ -80,3 +84,7 @@ Looking at metrics as a whole can shed light on how our systems are performing a
 ### Alerting <a href="#alerting-1" id="alerting-1"></a>
 
 **Alerting** is the part of a monitoring system that responds to changes in metric values and takes action. There are two components to an alert definition: a metrics-based condition or threshold, and an action to take when the values fall outside of the permitted range.
+
+<!-- COURSE_NAV_START -->
+[Previous: Introduction to Distributed Monitoring](introduction-to-distributed-monitoring.md) | [Course Index](../README.md) | [Next: Monitor Server-side Errors](../monitor-server-side-errors/README.md)
+<!-- COURSE_NAV_END -->

@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: When to pick a NoSQL Database?](when-to-pick-a-nosql-database.md) | [Course Index](../README.md) | [Next: Polyglot Persistence](polyglot-persistence.md)
+<!-- COURSE_NAV_END -->
+
 # Is NoSQL More Performant Than SQL?
 
 Is NoSQL more performant than SQL? Developers ask this question all the time when trying to decide between an SQL and a NoSQL database. And I have a one-word answer for this.
@@ -41,3 +45,7 @@ You may be wondering, can’t I use both SQL and a NoSQL datastore in my applica
 You can!! Moreover, all the large-scale online services use a mix of both to achieve the desired persistence behavior.
 
 The term for leveraging the power of multiple databases clubbed together is polyglot persistence. We will discuss this in the next lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: When to pick a NoSQL Database?](when-to-pick-a-nosql-database.md) | [Course Index](../README.md) | [Next: Polyglot Persistence](polyglot-persistence.md)
+<!-- COURSE_NAV_END -->

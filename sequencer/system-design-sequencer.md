@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Sequencer](README.md) | [Course Index](../README.md) | [Next: Design of a Unique ID Generator](design-of-a-unique-id-generator.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: Sequencer
 
 ### Motivation <a href="#motivation-0" id="motivation-0"></a>
@@ -18,3 +22,7 @@ We’ve divided the sequencer’s comprehensive design into the following two le
 2. [**Unique IDs with Causality:**](unique-ids-with-causality.md) In this lesson, we incorporate an additional factor of time in the generation of IDs and explain the process by taking causality into consideration.
 
 **Unique IDs** are important for identifying events and objects within a distributed system. However, designing a unique ID generator within a distributed system is challenging. In the next lesson, let’s look at the requirements for a distributed unique ID generation system.
+
+<!-- COURSE_NAV_START -->
+[Previous: Sequencer](README.md) | [Course Index](../README.md) | [Next: Design of a Unique ID Generator](design-of-a-unique-id-generator.md)
+<!-- COURSE_NAV_END -->

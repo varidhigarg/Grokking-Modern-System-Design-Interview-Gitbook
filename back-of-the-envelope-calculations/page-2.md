@@ -2,6 +2,10 @@
 description: Try your hand at some of the back-of-the-envelope numbers.
 ---
 
+<!-- COURSE_NAV_START -->
+[Previous: Put Back-of-the-envelope Numbers in Perspective](put-back-of-the-envelope-numbers-in-perspective.md) | [Course Index](../README.md) | [Next: Building Blocks](../building-blocks.md)
+<!-- COURSE_NAV_END -->
+
 # Examples of Resource Estimation
 
 ### Introduction <a href="#introduction" id="introduction"></a>
@@ -103,3 +107,6 @@ In order to estimate the bandwidth requirements for a service, we use the follow
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-21 at 1.20.39 AM.png" alt=""><figcaption><p>The total bandwidth required by Twitter</p></figcaption></figure>
 
+<!-- COURSE_NAV_START -->
+[Previous: Put Back-of-the-envelope Numbers in Perspective](put-back-of-the-envelope-numbers-in-perspective.md) | [Course Index](../README.md) | [Next: Building Blocks](../building-blocks.md)
+<!-- COURSE_NAV_END -->

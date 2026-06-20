@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Distributed Search](system-design-the-distributed-search.md) | [Course Index](../README.md) | [Next: Indexing in a Distributed Search](indexing-in-a-distributed-search.md)
+<!-- COURSE_NAV_END -->
+
 # Requirements of a Distributed Search System's Design
 
 ### Requirements <a href="#requirements-0" id="requirements-0"></a>
@@ -123,3 +127,7 @@ We need a distributed storage in our design. Therefore, we can use the [blob sto
 Distributed storage: Blob store
 
 To conclude, we explained what the search system’s requirements are. We made resource estimations. And lastly, we mentioned the building block that we’ll use in our design of a distributed search system.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Distributed Search](system-design-the-distributed-search.md) | [Course Index](../README.md) | [Next: Indexing in a Distributed Search](indexing-in-a-distributed-search.md)
+<!-- COURSE_NAV_END -->

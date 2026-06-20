@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Unique ID Generator](design-of-a-unique-id-generator.md) | [Course Index](../README.md) | [Next: Distributed Monitoring](../distributed-monitoring/README.md)
+<!-- COURSE_NAV_END -->
+
 # Unique IDs with Causality
 
 ### Causality <a href="#causality-0" id="causality-0"></a>
@@ -237,3 +241,7 @@ The updated table provides the comparison between the different system designs f
 > **Note:** Globally ordering events is an expensive procedure. A feature that was fast and simple in a centralized database (auto-increment based ID) becomes slow and complicated in its distributed counterpart due to some fundamental constraints (such as consensus, which is difficult among remote entities).
 >
 > For example, Spanner, a geographically distributed database, reports that “if a read-update transaction on a single cell (one column in a single row) has a latency of 10 milliseconds (ms), then the maximum theoretical frequency of issuing of sequence values is 100 per second. This maximum applies to the entire database, regardless of the number of client application instances, or the number of nodes in the database. This is because a single node always manages a single row.” If we could compromise on the requirements for global orderings and gapless identifiers, we would be able to get many identifiers in a shorter time, that is, a better performance.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design of a Unique ID Generator](design-of-a-unique-id-generator.md) | [Course Index](../README.md) | [Next: Distributed Monitoring](../distributed-monitoring/README.md)
+<!-- COURSE_NAV_END -->

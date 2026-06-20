@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Key-Value Database](key-value-database.md) | [Course Index](../../README.md) | [Next: Wide-Column Database](wide-column-database.md)
+<!-- COURSE_NAV_END -->
+
 # Time Series Database
 
 ### What is a time-series database?[#](https://www.educative.io/module/lesson/web-application-architecture-101/qV81P1Erjmk#What-is-a-time-series-database?) <a href="#what-is-a-time-series-database" id="what-is-a-time-series-database"></a>
@@ -36,3 +40,7 @@ Here are some of the real-world implementations of the tech:
 
 * [M3DB (a time-series database) powers time-series metrics](https://www.uber.com/en-IN/blog/m3/) workflows at Uber.
 * [Apache Druid, a time-series database](https://www.youtube.com/watch?v=W\_Sp4jo1ACg), powers real-time analytics at Airbnb.
+
+<!-- COURSE_NAV_START -->
+[Previous: Key-Value Database](key-value-database.md) | [Course Index](../../README.md) | [Next: Wide-Column Database](wide-column-database.md)
+<!-- COURSE_NAV_END -->

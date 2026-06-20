@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of the Typeahead Suggestion System](detailed-design-of-the-typeahead-suggestion-system.md) | [Course Index](../README.md) | [Next: Quiz on the Typeahead Suggestion System’s Design](quiz-on-the-typeahead-suggestion-systems-design.md)
+<!-- COURSE_NAV_END -->
+
 # Evaluation of the Typeahead Suggestion System’s Design
 
 ### Fulfill requirements <a href="#fulfill-requirements-0" id="fulfill-requirements-0"></a>
@@ -38,3 +42,7 @@ Users receive typeahead suggestions based on their previous searches, location, 
 ### Summary <a href="#summary-0" id="summary-0"></a>
 
 In this design problem, we learned how pushing resource-intensive processing to the offline infrastructure and using appropriate data structures enables us to serve our customers with low latency. Many optimizations lend themselves to specific use cases. We saw multiple optimizations on our trie data structures for condensed data storage and quick serving.
+
+<!-- COURSE_NAV_START -->
+[Previous: Detailed Design of the Typeahead Suggestion System](detailed-design-of-the-typeahead-suggestion-system.md) | [Course Index](../README.md) | [Next: Quiz on the Typeahead Suggestion System’s Design](quiz-on-the-typeahead-suggestion-systems-design.md)
+<!-- COURSE_NAV_END -->

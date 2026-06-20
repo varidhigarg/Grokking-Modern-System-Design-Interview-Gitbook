@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design Uber](../design-uber.md) | [Course Index](../README.md) | [Next: Requirements of Uber’s Design](requirements-of-ubers-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: Uber
 
 ### What is Uber? <a href="#what-is-uber-0" id="what-is-uber-0"></a>
@@ -24,3 +28,7 @@ We’ve divided the design of Uber into six sections:
 6. [**Quiz:**](quiz-on-ubers-design.md) We’ll reinforce major concepts of Uber design via a quiz.
 
 Let’s go over the requirements for designing a system like Uber in the next lesson.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design Uber](../design-uber.md) | [Course Index](../README.md) | [Next: Requirements of Uber’s Design](requirements-of-ubers-design.md)
+<!-- COURSE_NAV_END -->

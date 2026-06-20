@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Design WhatsApp](../design-whatsapp.md) | [Course Index](../README.md) | [Next: Requirements of WhatsApp’s Design](requirements-of-whatsapps-design.md)
+<!-- COURSE_NAV_END -->
+
 # System Design: WhatsApp
 
 ### WhatsApp <a href="#whatsapp-0" id="whatsapp-0"></a>
@@ -31,3 +35,7 @@ We’ve divided the design of WhatsApp messenger into the following five lessons
 5. [**Quiz**](quiz-on-whatsapps-design.md): Here, we’ll assess what we’ve learned in this chapter through a quiz.
 
 Let’s start by discussing the requirements of our version of WhatsApp.
+
+<!-- COURSE_NAV_START -->
+[Previous: Design WhatsApp](../design-whatsapp.md) | [Course Index](../README.md) | [Next: Requirements of WhatsApp’s Design](requirements-of-whatsapps-design.md)
+<!-- COURSE_NAV_END -->

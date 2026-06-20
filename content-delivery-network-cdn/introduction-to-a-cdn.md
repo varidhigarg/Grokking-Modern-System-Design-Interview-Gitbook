@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Content Delivery Network (CDN)](system-design-the-content-delivery-network-cdn.md) | [Course Index](../README.md) | [Next: Design of a CDN](design-of-a-cdn.md)
+<!-- COURSE_NAV_END -->
+
 # Introduction to a CDN
 
 ### Proposed solution <a href="#proposed-solution" id="proposed-solution"></a>
@@ -63,3 +67,7 @@ The building blocks used in CDN design
 * [**Load balancers**](https://www.educative.io/collection/page/10370001/4941429335392256/4521972679049216) distribute millions of requests among the operational proxy servers.
 
 In the next lesson, we’ll discuss the design of the CDN.
+
+<!-- COURSE_NAV_START -->
+[Previous: System Design: The Content Delivery Network (CDN)](system-design-the-content-delivery-network-cdn.md) | [Course Index](../README.md) | [Next: Design of a CDN](design-of-a-cdn.md)
+<!-- COURSE_NAV_END -->

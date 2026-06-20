@@ -1,3 +1,7 @@
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Twitter’s Design](requirements-of-twitters-design.md) | [Course Index](../README.md) | [Next: Detailed Design of Twitter](detailed-design-of-twitter.md)
+<!-- COURSE_NAV_END -->
+
 # High-level Design of Twitter
 
 ### User-system interaction <a href="#user-system-interaction-0" id="user-system-interaction-0"></a>
@@ -176,3 +180,7 @@ retweet(user_id, tweet_id, retweet_user_id)
 ```
 
 The same parameters will be required in the `/undoRetweet` API when users undo a Retweet of someone’s Tweet.
+
+<!-- COURSE_NAV_START -->
+[Previous: Requirements of Twitter’s Design](requirements-of-twitters-design.md) | [Course Index](../README.md) | [Next: Detailed Design of Twitter](detailed-design-of-twitter.md)
+<!-- COURSE_NAV_END -->
